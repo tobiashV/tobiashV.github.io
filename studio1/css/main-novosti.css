@@ -1,0 +1,41 @@
+#dg {
+background: #e0e0e0;
+padding-bottom: 30px;
+text-align: justify;
+    padding-top: 10px;
+
+}
+.zagolovok {font-size: 40px; text-align: center}
+.text {font-family: "Candara"; text-indent: 30px; text-align: justify; font-size: 17px }
+
+.number {font-family: "Monotype Corsiva"}
+#dg h4 {
+font-size: 40px;
+}
+
+.tilt a img:hover {  transform: scale(1.2);
+transition: 0.4s; position: center}
+
+.tilt {margin-bottom: 5px}
+
+#dg_next_1 {
+    margin-top: 110px;
+    padding-top: 30px;
+    margin-bottom: 20px;
+}
+
+.tilt {
+-webkit-transition: all 0.5s ease;
+-moz-transition: all 0.5s ease;
+-o-transition: all 0.5s ease;
+-ms-transition: all 0.5s ease;
+transition: all 0.5s ease;
+    padding: 60px;
+}
+
+.tilt:hover {
+
+    transform: scale(1.6);
+}
+
+

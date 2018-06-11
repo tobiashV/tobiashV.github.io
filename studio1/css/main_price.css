@@ -1,0 +1,16 @@
+.img-responsive {
+display: block;
+
+max-width: 100%;
+
+height: auto;
+margin: 0 auto;
+    border: 5px solid gainsboro;
+    box-shadow: 0 0 5px 5px gainsboro;}
+.col-md-12 {
+
+margin-top: 150px}
+
+#f_price {width: auto;
+height: 250px;
+background: gray}

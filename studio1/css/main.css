@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Raleway');
+
+body {
+    background-color: #f2f2f2;
+    font-family: "Monotype Corsiva";
+    font-weight: 300;
+    font-size: 16px;
+    color: black;
+    -webkit-font-smoothing: antialiased;
+    -webkit-overflow-scrolling: touch;
+    /*margin-top: 120px;*/
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Monotype Corsiva";
+    font-weight: 500;
+    color: black;
+}
+p {
+    line-height: 28px;
+    margin-bottom: 10px;
+}
+.centred {
+    text-align: center;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid gray;
+    margin: 1em 0;
+    padding: 0;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.navbar {
+    font-size: 28px;
+    padding-bottom: 20px;
+}
+.dropdown-menu {font-size: 20px}
+
+.nav {padding-right: 50px}
+
+.navbar-default {
+    font-family: "Monotype Corsiva";
+    background: white;
+    border-color: grey;
+}
+
+.navbar-default .navbar-brand {
+    margin-top: -20px;
+}
+.navbar-toggle {
+    margin-top: 60px;
+    background: white;
+}
+
+.logo:hover {
+    transform: scalex(1.2);
+    transition: 0.4s;
+}
+
+.number {color: gray; font-size: 18px;
+    text-align: end; padding-right: 50px;
+}
+
+.fa-vk {color: #bdbdbd;
+    font-size: 35px;
+    margin-top: 3px;
+padding-right: 10px;
+padding-left: 10px}
+.fa-vk:hover {
+    color: gold;
+}
+.fa-instagram {color: #bdbdbd;
+    font-size: 35px;
+    margin-top: 3px}
+.fa-instagram:hover {
+    color: gold;
+}
+
+@media (max-width: 1024px) {
+    .number {font-size: 15px}
+    .navbar {font-size: 22px}
+    .w img {width: 240px}
+
+}
+@media (max-width: 960px) {
+    .number {font-size: 11px}
+    .navbar {font-size: 18px; font-weight: bolder}
+    .w img {width: 210px}
+    .elasticstack img {width: 660px; }
+    #elasticstack li {width: 700px;  }
+
+}
+@media (max-width: 768px) {
+    .number {font-size: 19px; text-align: center}
+    .navbar {font-size: 25px;font-weight: bolder}
+    .w img {width: 300px}
+    .logo {height: 120px;width: 155px    }
+
+    .elasticstack img {width: 460px; }
+    #elasticstack li {width: 500px;  }
+    .tilt img {margin-left: 30%}
+
+}
+@media (max-width: 480px) {
+    .number {font-size: 16px; text-align: center}
+    .navbar {font-size: 25px}
+    .logo {margin-left: 100px; margin-top: 20px; height: 90px;width: 125px    }
+    .elasticstack img {width: 320px;}
+    #elasticstack li {width: 360px;}
+    .block1 h2 {font-size: 19px;  }
+    .block1 .map {width: 300px;height: 150px}
+    .tilt img {margin-left: 5%}
+    /*.skdlider {margin-top: 250px}*/
+
+}
+
+#featured {
+    position: absolute;
+    margin-top: 123px;
+    width: 200px;
+    height: 200px;
+}
+
+#headerwrap {
+    opacity: .3;
+    text-align: center;
+    background-attachment: local;
+    background-position: center center;
+    width: 100%;
+    background-size: 50%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+.w {
+    text-align: center;
+}
+.w h4 {
+    font-size: 25px;
+
+}
+
+.group {border-radius: 50px;
+    border: 3px solid beige;
+    box-shadow: 0 0 7px #666;
+}
+.group:hover {
+    transform: scale(1.08, 1.08);
+    transition: 0.4s;
+}
+
+.block {width: 100%;
+height: 100px;
+}
+
+#f {
+    background: grey;
+    text-align: center;
+}
+
+
+
+
+
