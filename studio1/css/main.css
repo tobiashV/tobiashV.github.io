@@ -84,8 +84,8 @@ padding-left: 10px}
     .number {font-size: 15px}
     .navbar {font-size: 22px}
     .w img {width: 240px}
-    .elasticstack img {width: 800px; }
-    #elasticstack li {width: 840px;  }
+    .elasticstack img {width: 840px; }
+    #elasticstack li {width: 880px;  }
 
 }
 @media (max-width: 970px) {
