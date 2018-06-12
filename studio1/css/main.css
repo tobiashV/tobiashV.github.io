@@ -54,6 +54,7 @@ hr {
 .navbar-toggle {
     margin-top: 60px;
     background: white;
+    margin-right: 40px;
 }
 
 .logo:hover {
