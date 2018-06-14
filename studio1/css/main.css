@@ -58,7 +58,7 @@ hr {
 }
 
 .logo:hover {
-    transform: scalex(1.1);
+    /*transform: scalex(1.1);*/
     transition: 0.4s;
 }
 
