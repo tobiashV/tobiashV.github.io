@@ -1,5 +1,19 @@
-.header {display:flex;
-  align-items: center;
+.header {
+  background-color: white;
+  width: 100%;
+  display:flex;
   justify-content: center;
 
+
 }
+.graficheader {
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+
+/*@media (max-width: 768px) {*/
+  /*.header {*/
+  /*width: 592px;*/
+  /*height: 100px}*/
+/*}*/
