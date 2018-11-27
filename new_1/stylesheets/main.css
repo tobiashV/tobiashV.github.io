@@ -1,0 +1,29 @@
+.advantages__container {
+    display: flex;
+    justify-content: center;
+}
+.advantages {
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    flex-wrap: wrap;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.advantages__item {
+    width: 30%;
+}
+
+@media screen and (max-width: 768px) {
+    .advantages__item {
+        width: 45%;
+    }
+}
+@media screen and (max-width: 420px) {
+    .advantages {
+        flex-direction: column;
+    }
+    .advantages__item {width: 100%}
+}
+
