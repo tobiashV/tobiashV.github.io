@@ -27,6 +27,7 @@ nav {
   text-align: center;
 font-size: 30px;
 margin-top: 20px}
+
 .topnav a {
   color: black;
   text-align: center;
@@ -37,6 +38,18 @@ margin-top: 20px}
   border-bottom: 2px solid lightcoral;
 }
 .topnav .icon {display: none}
+
+/*.topnav > ul {*/
+  /*display: flex;*/
+  /*justify-content: center;*/
+/*}*/
+/*.topnav li ul {*/
+  /*display: none;*/
+/*}*/
+/*.topnav li:hover > ul {*/
+  /*display: block;*/
+  /*position: absolute;*/
+/*}*/
 
 
 @media screen and (max-width: 768px) {
@@ -70,7 +83,10 @@ margin-top: 20px}
     display: block;
     text-align: left;
   }
+
+
 }
+
 
 
 
