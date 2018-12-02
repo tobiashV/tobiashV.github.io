@@ -1,0 +1,21 @@
+#map {
+    width: 80%;
+    margin: 0 auto;
+    height: 500px;
+}
+h1 {
+    font-size: 25px;
+    text-align: center;
+    margin: 0 auto;
+
+    font-family: 'Raleway', sans-serif;
+}
+.adres {font-size: 25px;
+    text-align: center;
+
+    }
+@media screen and (max-width: 768px) {
+    .adres {
+        font-size: 15px;
+    }
+}
