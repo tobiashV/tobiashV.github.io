@@ -17,7 +17,7 @@ body {
 }
 .graficheader {
   max-width: 100%;
-  box-sizing: border-box;
+ box-sizing: border-box;
 }
 nav {
   margin: auto;
@@ -109,7 +109,21 @@ margin-top: 20px}
   /*width: 60%;*/
   /*height: 60%;*/
 
+footer {width: 100%;
+  height: auto;
+  background: white;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+footer a {color: black;
+font-size: 14px;
+margin-left: 10px}
 
+footer nav a:hover {
+  border-bottom: 1px solid white;
+}
 
 
 
