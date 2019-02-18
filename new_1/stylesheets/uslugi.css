@@ -16,29 +16,49 @@ background-color: lightgray;
     color: white;
     transition: all 0.2s;}
     span {font-size: 1.6rem;
-    text-shadow:  0 0 10px black}
+        text-shadow: 1px 1px black, 1px -1px black, -1px 1px black, -1px -1px black, 3px 3px 6px black;
+    }
 
 
 .item:hover {
     flex-basis: 100%;
+
 }
 
 .item-1 {
     background: url("../img/slide1.jpg")no-repeat center center;
     background-size: cover;
 }
+.item-1 .bol_1 {display: none}
+.item-1:hover .bol_1 {display: block}
+.bol_1 {margin-top:20px; font-size: 20px;}
+.bol_1 p {margin-bottom: 10px}
 .item-2 {
     background: url("../img/slide2.jpg")no-repeat center center;
     background-size: cover;
 }
+.item-2 .bol_2 {display: none}
+.item-2:hover .bol_2 {display: block}
+.bol_2 {margin-top:20px; font-size: 20px;}
+.bol_2 p {margin-bottom: 10px}
+
 .item-3 {
     background: url("../img/slide3.jpg")no-repeat center center;
     background-size: cover;
 }
+.item-3 .bol_3 {display: none}
+.item-3:hover .bol_3 {display: block}
+.bol_3 {margin-top:20px; font-size: 20px;}
+.bol_3 p {margin-bottom: 10px}
+
 .item-4 {
     background: url("../img/slide4.jpg")no-repeat center center;
     background-size: cover;
 }
+.item-4 .bol_4 {display: none}
+.item-4:hover .bol_4 {display: block}
+.bol_4 {margin-top:20px; font-size: 20px;}
+.bol_4 p {margin-bottom: 10px}
 
 @media  (max-width: 640px) {
     .slider {
