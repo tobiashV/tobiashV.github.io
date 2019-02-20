@@ -61,6 +61,15 @@ background-color: lightgray;
 .bol_4 {margin-top:20px; font-size: 17px;}
 .bol_4 p {margin-bottom: 10px}
 
+.item-5 {
+    background: url("../img/slide5.jpg")no-repeat center center;
+    background-size: cover;
+}
+.item-5 .bol_5 {display: none}
+.item-5:hover .bol_5 {display: block}
+.bol_5 {margin-top:20px; font-size: 17px;}
+.bol_5 p {margin-bottom: 10px}
+
 @media  (max-width: 640px) {
     .slider {
         height: 100vh;
