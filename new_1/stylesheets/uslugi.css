@@ -85,3 +85,18 @@ background-color: lightgray;
         flex-grow: inherit;
     }
 }
+@media  (max-width: 640px) {
+    .slider {
+        height: 150vh;
+        flex-flow: column;
+
+    }
+
+    .item {
+        width: 100%;
+    }
+
+    .item:hover {
+        flex-grow: inherit;
+    }
+}
