@@ -72,7 +72,7 @@ background-color: lightgray;
 
 @media  (max-width: 720px) {
     .slider {
-        height: 100vh;
+        height: 150vh;
         flex-flow: column;
 
     }
@@ -87,7 +87,7 @@ background-color: lightgray;
 }
 @media  (max-width: 640px) {
     .slider {
-        height: 150vh;
+        height: 100vh;
         flex-flow: column;
 
     }
