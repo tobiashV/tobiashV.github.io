@@ -70,7 +70,7 @@ background-color: lightgray;
 .bol_5 {margin-top:20px; font-size: 17px;}
 .bol_5 p {margin-bottom: 10px}
 
-@media  (max-width: 640px) {
+@media  (max-width: 720px) {
     .slider {
         height: 100vh;
         flex-flow: column;
