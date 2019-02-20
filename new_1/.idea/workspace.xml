@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03a6ca2b-6ace-4157-bec0-4c3bbebe3a68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/price_8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/slide5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/price_7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/price_7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/slide4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/slide4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/price.html" beforeDir="false" afterPath="$PROJECT_DIR$/price.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheets/uslugi.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/uslugi.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uslugi.html" beforeDir="false" afterPath="$PROJECT_DIR$/uslugi.html" afterDir="false" />
-    </list>
+    <list default="true" id="03a6ca2b-6ace-4157-bec0-4c3bbebe3a68" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,12 +212,12 @@
       <option name="presentableId" value="Default" />
       <updated>1543263585689</updated>
       <workItem from="1543263587540" duration="40522000" />
-      <workItem from="1547105238729" duration="35938000" />
+      <workItem from="1547105238729" duration="36076000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76460000" />
+    <option name="totallyTimeSpent" value="76598000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
