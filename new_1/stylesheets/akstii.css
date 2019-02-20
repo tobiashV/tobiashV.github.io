@@ -60,6 +60,7 @@ span {font-size: 1.4rem;
 
     .item:hover {
         flex-grow: inherit;
+        height: 50vh;
     }
 }
 @media  (max-width: 640px) {
