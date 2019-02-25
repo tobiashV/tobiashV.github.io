@@ -20,6 +20,7 @@ li {text-decoration: none;
     justify-content: center;
     position: relative;
     margin: 0;
+    height: 197px;
 }
 
 
@@ -27,6 +28,7 @@ nav {
 
     width: 792px;
     margin: 0;
+
 }
 .topnav {background-color: pink;
         text-align: center;
