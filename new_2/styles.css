@@ -7,6 +7,8 @@ body {
 }
 
 a{text-decoration: none;
+
+
     }
 li {text-decoration: none;
     list-style: none;
@@ -19,18 +21,22 @@ li {text-decoration: none;
     display:flex;
     justify-content: center;
     position: relative;
-    margin: 0;
-    height: 197px;
+
 }
 
+/*.graficheader {*/
+    /*!*max-width: 100%;*!*/
+    /*!*box-sizing: border-box;*!*/
+    /*width: 100%;*/
+/*}*/
 
 nav {
 
-    width: 792px;
-    margin: 0;
+    width: 100%;
+    margin: 0 auto;
 
 }
-.topnav {background-color: pink;
+.topnav {background-color: lightpink;
         text-align: center;
     font-size: 30px;
     height: 45px;
