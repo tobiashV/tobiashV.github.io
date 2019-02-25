@@ -10,7 +10,7 @@ a{text-decoration: none;}
 li {text-decoration: none;list-style: none;}
 *{margin: 0; padding: 0}
 
-.logo {background-image: url("img/Снимок1.JPG");
+.logo {background-image: url("img/fonlogo.JPG");
         width: 100%;
         display: flex;
         justify-content: center;
@@ -55,7 +55,7 @@ nav {
     margin: 0 auto;
 
 }
-.topnav {background-color: lightpink;
+.topnav {background-image: url("img/fonlogo.JPG");
         text-align: center;
     font-size: 30px;
     height: 45px;
