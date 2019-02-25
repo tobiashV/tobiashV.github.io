@@ -2,33 +2,52 @@ body {
     font-family: 'Raleway', sans-serif;
     background-image: url(img/bg-light-4862.png);
     background-repeat: repeat; /* Современные браузеры */
-    position: absolute;
-    display: flex; justify-content: center; width:100%
+    /*position: absolute;*/
+    /*display: flex; justify-content: center; width:100%*/
 }
 
-a{text-decoration: none;
+a{text-decoration: none;}
+li {text-decoration: none;list-style: none;}
+*{margin: 0; padding: 0}
 
-
-    }
-li {text-decoration: none;
-    list-style: none;
+.logo {background-image: url("img/Снимок1.JPG");
+        width: 100%;
+        display: flex;
+        justify-content: center;
 }
-*{margin: 0;
-    padding: 0}
 
-.header {
-    width: 100%;
-    display:flex;
-    justify-content: center;
-    position: relative;
 
+.graficlogo {max-width: 100%;
+    box-sizing: border-box;
+    margin-top: 4px;
 }
+
+/*.header {*/
+    /*max-width: 100%;*/
+    /*box-sizing: border-box;*/
+
+    /*display:flex;*/
+/*justify-content: center;}*/
+/*!*position: relative;*!*/
+/*!*flex-grow: 1;}*!*/
+
+
 
 /*.graficheader {*/
-    /*!*max-width: 100%;*!*/
-    /*!*box-sizing: border-box;*!*/
-    /*width: 100%;*/
+    /*box-sizing: border-box;*/
 /*}*/
+
+
+
+
+
+
+
+
+
+
+
+
 
 nav {
 
