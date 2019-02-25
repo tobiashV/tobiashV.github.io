@@ -16,32 +16,41 @@
     align-items: center;
     height: 20vh;
     color: white;
+
     transition: all 0.2s;}
 span {font-size: 1.4rem;
     text-shadow: 1px 1px black, 1px -1px black, -1px 1px black, -1px -1px black, 3px 3px 6px black;
+
 }
 
 
 .item:hover {
     flex-basis: 100%;
     height: 30vh;
+opacity: 0.9;
 
 }
 
-.item-1 {
+.akstii-1 {
     background: url("../img/slide1.jpg")no-repeat center center;
     background-size: cover;
+
 }
-.item-1 .bol_1 {display: none}
-.item-1:hover .bol_1 {display: block}
+
+/*.akstii-1 :hover {opacity: 0.25}*/
+
+
+.akstii-1 .bol_1 {display: none; }
+.akstii-1:hover .bol_1 {display: block;}
+
 .bol_1 {margin-top:20px; font-size: 17px;}
 .bol_1 p {margin-bottom: 10px}
-.item-2 {
+.akstii-2 {
     background: url("../img/slide2.jpg")no-repeat center center;
     background-size: cover;
 }
-.item-2 .bol_2 {display: none}
-.item-2:hover .bol_2 {display: block}
+.akstii-2 .bol_2 {display: none}
+.akstii-2:hover .bol_2 {display: block}
 .bol_2 {margin-top:20px; font-size: 17px;}
 .bol_2 p {margin-bottom: 10px}
 
