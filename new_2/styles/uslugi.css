@@ -1,0 +1,147 @@
+.slider {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin-top: 10px;
+}
+.slider a{text-decoration: none;
+    color: white}
+.item {
+    flex-basis: 25%;
+    border: 1px solid white;
+    background-color: lightgray;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: white;
+    transition: all 0.2s;}
+span {font-size: 1.4rem;
+    text-shadow: 1px 1px black, 1px -1px black, -1px 1px black, -1px -1px black, 4px 4px 8px black;
+}
+
+
+.item:hover {
+    flex-basis: 100%;
+
+}
+
+.item-1 {
+    background: url("../img/uslugi/uslugi_1.jpg")no-repeat center center;
+    background-size: cover;
+}
+.item-1 .bol_1 {display: none}
+.item-1:hover .bol_1 {display: block;}
+.bol_1 {margin-top:20px; font-size: 17px;}
+.bol_1 p {margin-bottom: 10px; margin-right: 5px}
+.item-2 {
+    background: url("../img/slide2.jpg")no-repeat center center;
+    background-size: cover;
+}
+.item-2 .bol_2 {display: none}
+.item-2:hover .bol_2 {display: block}
+.bol_2 {margin-top:20px; font-size: 17px;}
+.bol_2 p {margin-bottom: 10px}
+
+.item-3 {
+    background: url("../img/slide3.jpg")no-repeat center center;
+    background-size: cover;
+}
+.item-3 .bol_3 {display: none}
+.item-3:hover .bol_3 {display: block}
+.bol_3 {margin-top:20px; font-size: 17px;}
+.bol_3 p {margin-bottom: 10px}
+
+.item-4 {
+    background: url("../img/slide4.jpg")no-repeat center center;
+    background-size: cover;
+}
+.item-4 .bol_4 {display: none}
+.item-4:hover .bol_4 {display: block}
+.bol_4 {margin-top:20px; font-size: 17px;}
+.bol_4 p {margin-bottom: 10px}
+
+.item-5 {
+    background: url("../img/slide5.jpg")no-repeat center center;
+    background-size: cover;
+}
+.item-5 .bol_5 {display: none}
+.item-5:hover .bol_5 {display: block}
+.bol_5 {margin-top:20px; font-size: 17px;}
+.bol_5 p {margin-bottom: 10px}
+
+@media  (max-width: 720px) {
+    .slider {
+        height: 150vh;
+        flex-flow: column;
+
+    }
+
+    .item {
+        width: 100%;
+    }
+
+    .item:hover {
+        flex-grow: inherit;
+    }
+}
+@media  (max-width: 640px) {
+    .slider {
+        height: 100vh;
+        flex-flow: column;
+
+    }
+
+    .item {
+        width: 100%;
+    }
+
+    .item:hover {
+        flex-grow: inherit;
+    }
+}
+
+.fonzagolovok {
+    background-image: url("../img/header/fonzagolovok.png" );
+    background-size: cover;
+    width: 200px;
+    height: 90px;
+    /*border-radius: 40%;*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    /*border: 0.5px solid black;*/
+    }
+
+.zagolovok {text-align: center;
+    font-size: 22px;
+    padding: 30px 0 5px 0;
+
+
+
+    color: #FFFFFF;
+    text-shadow:
+            -0   -1px 0   #000000,
+            0   -1px 0   #000000,
+            -0    1px 0   #000000,
+            0    1px 0   #000000,
+            -1px -0   0   #000000,
+            1px -0   0   #000000,
+            -1px  0   0   #000000,
+            1px  0   0   #000000,
+            -1px -1px 0   #000000,
+            1px -1px 0   #000000,
+            -1px  1px 0   #000000,
+            1px  1px 0   #000000,
+            -1px -1px 0   #000000,
+            1px -1px 0   #000000,
+            -1px  1px 0   #000000,
+            1px  1px 0   #000000;
+}
+
+/*.slider span {background-color: gainsboro;*/
+
+/*}*/
+
+
