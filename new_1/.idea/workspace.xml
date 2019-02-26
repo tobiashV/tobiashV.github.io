@@ -2,22 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03a6ca2b-6ace-4157-bec0-4c3bbebe3a68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../new_2/img/header/00574c696b1d67e.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../new_2/img/header/fonzagolovok.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../new_2/img/header/imgonline-com-ua-Transparent-backgr-n44NQCamg2NOCH.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../new_2/img/header/pink-1332302_960_720.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../new_2/img/uslugi/uslugi_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../new_2/img/uslugi/uslugi_11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../new_2/styles/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../new_2/styles/uslugi.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_2/img/header/babochka.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_2/img/header/instagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_2/img/header/vk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_2/img/uslugi/uslugi_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_2/img/uslugi/uslugi_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_2/img/uslugi/uslugi_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_2/img/uslugi/uslugi_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_2/js/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_2/styles/slider.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../new_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../new_2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_2/img/bg-light-4862.png" beforeDir="false" afterPath="$PROJECT_DIR$/../new_2/img/header/bg-light-4862.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_2/img/fonlogo.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../new_2/img/header/fonlogo.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_2/img/logo.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../new_2/img/header/logo.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_2/img/logo1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../new_2/img/header/logo1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_2/img/header/00574c696b1d67e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_2/img/header/imgonline-com-ua-Transparent-backgr-n44NQCamg2NOCH.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_2/img/header/pink-1332302_960_720.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_2/img/uslugi/uslugi_11.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../new_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../new_2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_2/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_2/styles/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/../new_2/styles/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_2/styles/uslugi.css" beforeDir="false" afterPath="$PROJECT_DIR$/../new_2/styles/uslugi.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,21 +44,21 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="JPG" value="6" />
-          <entry key="css" value="17" />
+          <entry key="css" value="18" />
           <entry key="html" value="13" />
           <entry key="ico" value="2" />
           <entry key="jpg" value="38" />
           <entry key="js" value="8" />
           <entry key="php" value="1" />
-          <entry key="png" value="10" />
+          <entry key="png" value="12" />
           <entry key="script" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="17" />
+          <entry key="CSS" value="18" />
           <entry key="HTML" value="13" />
-          <entry key="Image" value="56" />
+          <entry key="Image" value="58" />
           <entry key="JavaScript" value="9" />
           <entry key="PHP" value="1" />
         </counts>
@@ -80,11 +82,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1207">
-              <caret line="71" column="34" selection-start-line="71" selection-start-column="2" selection-end-line="71" selection-end-column="39" />
+            <state relative-caret-position="242">
+              <caret line="156" column="24" lean-forward="true" selection-start-line="156" selection-start-column="24" selection-end-line="156" selection-end-column="24" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -96,10 +98,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stylesheets/slider.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1530">
+              <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stylesheets/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1666">
-              <caret line="98" column="17" selection-start-line="96" selection-end-line="98" selection-end-column="22" />
+            <state relative-caret-position="596">
+              <caret line="145" column="19" lean-forward="true" selection-start-line="120" selection-end-line="149" />
             </state>
           </provider>
         </entry>
@@ -122,10 +133,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stylesheets/uslugi.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
+            <state relative-caret-position="272">
               <caret line="19" column="92" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="103" />
             </state>
           </provider>
@@ -183,7 +194,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="45" />
     <option name="y" value="8" />
     <option name="width" value="1378" />
@@ -263,19 +274,19 @@
       <workItem from="1550659153734" duration="7147000" />
       <workItem from="1551083655292" duration="7275000" />
       <workItem from="1551093245402" duration="9468000" />
-      <workItem from="1551194455725" duration="574000" />
+      <workItem from="1551194455725" duration="1089000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102006000" />
+    <option name="totallyTimeSpent" value="102521000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="45" y="8" width="1378" height="735" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18512899" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18456884" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
@@ -321,9 +332,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/vk.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/фончик5.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -334,13 +342,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="596">
           <caret line="95" column="4" lean-forward="true" selection-start-line="39" selection-end-line="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/slider.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-170">
-          <caret line="2" column="14" selection-start-line="2" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -402,26 +403,6 @@
     <entry file="file://$PROJECT_DIR$/img/favicon.JPG">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1207">
-          <caret line="71" column="34" selection-start-line="71" selection-start-column="2" selection-end-line="71" selection-end-column="39" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1666">
-          <caret line="98" column="17" selection-start-line="96" selection-end-line="98" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -445,8 +426,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stylesheets/uslugi.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
+        <state relative-caret-position="272">
           <caret line="19" column="92" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/vk (1).png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/slider.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="145" column="19" lean-forward="true" selection-start-line="120" selection-end-line="149" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/vk.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="156" column="24" lean-forward="true" selection-start-line="156" selection-start-column="24" selection-end-line="156" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
