@@ -2,23 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03a6ca2b-6ace-4157-bec0-4c3bbebe3a68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../new_2/img/header/babochka.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../new_2/img/header/instagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../new_2/img/header/vk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../new_2/img/uslugi/uslugi_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../new_2/img/uslugi/uslugi_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../new_2/img/uslugi/uslugi_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../new_2/img/uslugi/uslugi_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../new_2/js/slider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../new_2/styles/slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_2/img/uslugi/_SLM9553.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_2/img/uslugi/_SLM9606.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_2/img/uslugi/_SLM9641.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_2/img/uslugi/_SLM9656.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_2/img/uslugi/_SLM9719.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../new_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../new_2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_2/img/header/00574c696b1d67e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_2/img/header/imgonline-com-ua-Transparent-backgr-n44NQCamg2NOCH.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_2/img/header/pink-1332302_960_720.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_2/img/uslugi/uslugi_11.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../new_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../new_2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_2/styles/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/../new_2/styles/header.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../new_2/styles/uslugi.css" beforeDir="false" afterPath="$PROJECT_DIR$/../new_2/styles/uslugi.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -274,12 +265,12 @@
       <workItem from="1550659153734" duration="7147000" />
       <workItem from="1551083655292" duration="7275000" />
       <workItem from="1551093245402" duration="9468000" />
-      <workItem from="1551194455725" duration="1089000" />
+      <workItem from="1551194455725" duration="1585000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102521000" />
+    <option name="totallyTimeSpent" value="103017000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
