@@ -17,14 +17,15 @@
     color: white;
     transition: all 0.2s;
     text-align: center;
+    padding-top: 20px;
 }
 span {font-size: 1.4rem;
     text-shadow: 1px 1px black, 1px -1px black, -1px 1px black, -1px -1px black, 4px 4px 8px black;
 }
 
-
 .item:hover {
     flex-basis: 100%;
+
 
 }
 
@@ -35,7 +36,7 @@ span {font-size: 1.4rem;
 .item-1 .bol_1 {display: none}
 .item-1:hover .bol_1 {display: block;}
 .bol_1 {margin-top:30px; font-size: 20px;}
-.bol_1 p {margin-bottom: 10px; margin-right: 5px}
+.bol_1 p {margin-bottom: 10px; margin-right: 5px;}
 .item-2 {
     background: url("../img/uslugi/SLM9641.jpg")no-repeat center center;
     background-size: cover;
@@ -102,25 +103,26 @@ span {font-size: 1.4rem;
         flex-grow: inherit;
     }
 }
-
+.container {width: 200px; height: 90px; text-align: center; margin: 0 auto}
 .fonzagolovok {
     background-image: url("../img/header/fonzagolovok.png" );
     background-size: cover;
     width: 200px;
     height: 90px;
+    position: absolute;
     /*border-radius: 40%;*/
     margin-left: auto;
     margin-right: auto;
     margin-top: 5px;
+    opacity: 0.7;
     /*margin-bottom: 5px;*/
     /*border: 0.5px solid black;*/
     }
 
 .zagolovok {text-align: center;
     font-size: 22px;
-    padding: 30px 0 5px 0;
-
-
+    padding: 35px 0 5px 0;
+position: relative;
 
     color: #FFFFFF;
     text-shadow:
@@ -142,7 +144,7 @@ span {font-size: 1.4rem;
             1px  1px 0   #000000;
 }
 
-/*.slider span {background-color: gainsboro;*/
+/*.slider span {background-color: pink; padding: 10px; border-radius: 50%;*/
 
 /*}*/
 

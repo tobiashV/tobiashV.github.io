@@ -59,7 +59,7 @@ nav {width: 100%;
 
 footer {width: 100%;
     height: auto;
-    background: white;
+    /*background: white;*/
     margin: 0 auto;
     text-align: center;
     padding-top: 25px;
@@ -70,14 +70,14 @@ footer a {color: black;
     margin-left: 10px}
 
 footer nav a:hover {
-    border-bottom: 1px solid darkgray;
+    border-bottom: 1px solid pink;
 }
 footer .logo1 {margin-top: 10px}
 
 
 .social img {margin-left: 10px;
     margin-bottom: 10px}
-.social img:hover {background: darkgray;
+.social img:hover {background: pink;
     border-radius: 10%}
 
 @media screen and (max-width: 420px) {
