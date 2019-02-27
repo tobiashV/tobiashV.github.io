@@ -1,0 +1,17 @@
+.img-responsive {
+
+    display: block;
+
+
+    max-width: 100%;
+
+    height: auto;
+    margin: 0 auto;
+}
+    /*}*/
+    /*box-shadow: 0 0 5px 5px gainsboro;}*/
+
+.col-md-12 {
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10px}
