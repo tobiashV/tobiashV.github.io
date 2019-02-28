@@ -41,6 +41,7 @@
 
         </div>
     </div>
+    <div id="map"></div>
     <script>
         function initMap() {
             var myLatLng = {lat: 48.00095, lng: 37.829299};
@@ -49,9 +50,7 @@
             // for display.
             var map = new google.maps.Map(document.getElementById('map'), {
                 center: myLatLng,
-                zoom: 17.25,
-
-
+                zoom: 17.25
             });
 
             // Create a marker and set its position.
@@ -66,9 +65,39 @@
             });
         }
 
-        </script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDGs3w3LfpZHigKwjCZFlhfjgBChM75b-E&callback=initMap"
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAOi6B2MRLVEKwDHjGTGNf63ytBaHILLi0&callback=initMap"
             async defer></script>
+    <!--<script>-->
+        <!--function initMap() {-->
+            <!--var myLatLng = {lat: 48.00095, lng: 37.829299};-->
+
+            <!--// Create a map object and specify the DOM element-->
+            <!--// for display.-->
+            <!--var map = new google.maps.Map(document.getElementById('map'), {-->
+                <!--center: myLatLng,-->
+                <!--zoom: 17.25,-->
+
+
+            <!--});-->
+
+            <!--// Create a marker and set its position.-->
+            <!--var marker = new google.maps.Marker({-->
+                <!--map: map,-->
+                <!--position: myLatLng,-->
+                <!--title: 'Студия красоты Татьяны Тобиаш!',-->
+                <!--icon: {-->
+                    <!--url: "img/header/logo1.png",-->
+                    <!--scaledSize: new google.maps.Size(64,54)-->
+                <!--}-->
+            <!--});-->
+        <!--}-->
+
+    <!--</script>-->
+    <!--<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDN-N-u5xuhUbwpbU6X-sG4Ambiyr_bB90-E&callback=initMap"-->
+            <!--async defer></script>-->
+    <!--<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDN-N-u5xuhUbwpbU6X-sG4Ambiyr_bB90&callback=initMap"-->
+            <!--type="text/javascript"></script>-->
 
     <script src="js/script.js"></script>
         <footer>
