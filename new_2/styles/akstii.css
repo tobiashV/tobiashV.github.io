@@ -80,7 +80,7 @@ span {
 
 @media  (max-width: 720px) {
     .slider_aktsii {
-        height: 100vh;
+        /*height: 100vh;*/
         flex-flow: column;
 
     }
