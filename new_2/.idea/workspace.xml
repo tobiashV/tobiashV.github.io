@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86f83d1d-caa6-4567-8d8e-deb05173cb05" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../new_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../new_1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/aktsii/depositphotos.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/akstii.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/akstii.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,13 +44,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="2167" />
+          <entry key="css" value="2169" />
           <entry key="html" value="1396" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="2167" />
+          <entry key="CSS" value="2169" />
           <entry key="HTML" value="1396" />
         </counts>
       </usages-collector>
@@ -75,8 +76,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/styles/akstii.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="82" column="13" selection-start-line="82" selection-end-line="83" />
+            <state relative-caret-position="341">
+              <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
             </state>
           </provider>
         </entry>
@@ -232,12 +233,12 @@
       <workItem from="1551088445046" duration="1918000" />
       <workItem from="1551093868504" duration="26256000" />
       <workItem from="1551194453477" duration="18429000" />
-      <workItem from="1551373947458" duration="9890000" />
+      <workItem from="1551373947458" duration="10150000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56493000" />
+    <option name="totallyTimeSpent" value="56753000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -391,8 +392,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/akstii.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="82" column="13" selection-start-line="82" selection-end-line="83" />
+        <state relative-caret-position="341">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
         </state>
       </provider>
     </entry>
