@@ -1,15 +1,18 @@
-.slider_aktsii {
-    /*display: flex;*/
-    justify-content: center;
-    align-items: center;
-    padding: 0;
-    margin-top: 10px;
+/*.slider_aktsii {*/
+    /*!*display: flex;*!*/
+    /*!*justify-content: center;*!*/
+    /*!*align-items: center;*!*/
+    /*!*padding: 0;*!*/
+    /*!*margin-top: 10px;*!*/
+    /*color: white;*/
+    /*height: 30vh;*/
 
-}
+/*}*/
 .slider a{text-decoration: none;
-    color: white}
-.item {
-    flex-basis: 25%;
+    color: white;
+    }
+.akstii-1 {
+    flex-basis: 70%;
     border: 1px solid white;
     background-color: lightgray;
     justify-content: center;
@@ -17,40 +20,59 @@
     height: 20vh;
     color: white;
 
-    transition: all 0.2s;}
-span {font-size: 1.4rem;
+
+   }
+span p {padding: 5px 10px}
+span {
+    font-size: 1.5rem;
     text-shadow: 1px 1px black, 1px -1px black, -1px 1px black, -1px -1px black, 3px 3px 6px black;
 
 }
 
 
-.item:hover {
+.akstii-1:hover {
     flex-basis: 100%;
     height: 30vh;
-opacity: 0.9;
 
+
+}
+.akstii-2:hover {
+    flex-basis: 100%;
+    height: 30vh;
+
+
+}
+.data {font-size: 12px; padding: 5px 10px;
 }
 
 .akstii-1 {
     background: url("../img/uslugi/SLM9553.jpg")no-repeat center center;
     background-size: cover;
-
+    height: 20vh;
+    /*opacity: 0.5;*/
 }
 
 /*.akstii-1 :hover {opacity: 0.25}*/
 
 
 .akstii-1 .bol_1 {display: none; }
-.akstii-1:hover .bol_1 {display: block;}
+.akstii-1:hover .bol_1 {display: block;background-color:rgba(0,0,0,.6);
+    padding:10px 20px;}
 
 .bol_1 {margin-top:20px; font-size: 17px;}
 .bol_1 p {margin-bottom: 10px}
+
+
 .akstii-2 {
-    background: url("../img/slide2.jpg")no-repeat center center;
+    background: url("../img/aktsii/Cw0ojcW1zig.jpg")no-repeat center center;
     background-size: cover;
+    height: 20vh;
+    color: white;
+
 }
 .akstii-2 .bol_2 {display: none}
-.akstii-2:hover .bol_2 {display: block}
+.akstii-2:hover .bol_2 {display: block;background-color:rgba(0,0,0,.6);
+    padding:10px 20px;}
 .bol_2 {margin-top:20px; font-size: 17px;}
 .bol_2 p {margin-bottom: 10px}
 
@@ -63,13 +85,13 @@ opacity: 0.9;
 
     }
 
-    .item {
+    .item_aktsii {
         width: 100%;
     }
 
-    .item:hover {
+    .aktsii-1:hover {
         flex-grow: inherit;
-        height: 50vh;
+        height: 60vh;
     }
 }
 @media  (max-width: 640px) {
@@ -79,13 +101,17 @@ opacity: 0.9;
 
     }
 
-    .item {
+    .item_aktsii {
         width: 100%;
 
     }
 
-    .item:hover {
+    .akstii-1:hover {
         flex-grow: inherit;
         height: 50vh;
+    }
+    .akstii-2:hover {
+        flex-grow: inherit;
+        height: 60vh;
     }
 }
