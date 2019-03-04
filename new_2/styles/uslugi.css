@@ -21,6 +21,8 @@
 }
 span {font-size: 1.4rem;
     text-shadow: 1px 1px black, 1px -1px black, -1px 1px black, -1px -1px black, 4px 4px 8px black;
+    /*background-color:rgba(0,0,0,.6);*/
+    /*padding:2px 2px;*/
 }
 
 .item:hover {
@@ -34,7 +36,8 @@ span {font-size: 1.4rem;
     background-size: cover;
 }
 .item-1 .bol_1 {display: none}
-.item-1:hover .bol_1 {display: block;}
+.item-1:hover .bol_1 {display: block; background-color:rgba(0,0,0,.6);
+    padding:5px 10px;}
 .bol_1 {margin-top:30px; font-size: 20px;}
 .bol_1 p {margin-bottom: 10px;}
 .item-2 {
@@ -42,7 +45,8 @@ span {font-size: 1.4rem;
     background-size: cover;
 }
 .item-2 .bol_2 {display: none}
-.item-2:hover .bol_2 {display: block}
+.item-2:hover .bol_2 {display: block;background-color:rgba(0,0,0,.6);
+    padding:5px 10px;}
 .bol_2 {margin-top:30px; font-size: 20px;}
 .bol_2 p {margin-bottom: 10px}
 
@@ -51,7 +55,8 @@ span {font-size: 1.4rem;
     background-size: cover;
 }
 .item-3 .bol_3 {display: none}
-.item-3:hover .bol_3 {display: block}
+.item-3:hover .bol_3 {display: block;background-color:rgba(0,0,0,.6);
+    padding:5px 10px;}
 .bol_3 {margin-top:30px; font-size: 20px;}
 .bol_3 p {margin-bottom: 10px}
 
@@ -60,7 +65,8 @@ span {font-size: 1.4rem;
     background-size: cover;
 }
 .item-4 .bol_4 {display: none}
-.item-4:hover .bol_4 {display: block}
+.item-4:hover .bol_4 {display: block;background-color:rgba(0,0,0,.6);
+    padding:5px 10px;}
 .bol_4 {margin-top:30px; font-size: 20px;}
 .bol_4 p {margin-bottom: 10px}
 
@@ -69,7 +75,8 @@ span {font-size: 1.4rem;
     background-size: cover;
 }
 .item-5 .bol_5 {display: none}
-.item-5:hover .bol_5 {display: block}
+.item-5:hover .bol_5 {display: block;background-color:rgba(0,0,0,.6);
+    padding:5px 10px;}
 .bol_5 {margin-top:30px; font-size: 20px;}
 .bol_5 p {margin-bottom: 10px}
 

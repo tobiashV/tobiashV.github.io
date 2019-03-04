@@ -46,7 +46,7 @@ span {
 }
 
 .akstii-1 {
-    background: url("../img/uslugi/SLM9553.jpg")no-repeat center center;
+    background: url("../img/uslugi/SLM9553.jpg") no-repeat center center;
     background-size: cover;
     height: 20vh;
     /*opacity: 0.5;*/
