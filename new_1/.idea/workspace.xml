@@ -2,14 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03a6ca2b-6ace-4157-bec0-4c3bbebe3a68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../new_2/img/header/fonzagolovok_2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../new_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../new_2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_2/img/aktsii/Cw0ojcW1zig_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_2/img/aktsii/SLM9553_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_2/aktsii.html" beforeDir="false" afterPath="$PROJECT_DIR$/../new_2/aktsii.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_2/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/../new_2/contacts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_2/img/aktsii/depositphotos.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_2/img/header/fonzagolovok.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_2/img/header/fonzagolovok_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_2/img/header/logo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_2/img/price/price_7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../new_2/img/price/price_7.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../new_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../new_2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_2/styles/akstii.css" beforeDir="false" afterPath="$PROJECT_DIR$/../new_2/styles/akstii.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_2/styles/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/../new_2/styles/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_2/price.html" beforeDir="false" afterPath="$PROJECT_DIR$/../new_2/price.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_2/primer.html" beforeDir="false" afterPath="$PROJECT_DIR$/../new_2/primer.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../new_2/styles/uslugi.css" beforeDir="false" afterPath="$PROJECT_DIR$/../new_2/styles/uslugi.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -294,7 +298,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18759455" />

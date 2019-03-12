@@ -169,6 +169,8 @@ position: relative;
     height: 60px;}
     .zagolovok {
         font-size: 17px;
+        padding: 25px 0 5px 0;
+
     }
 
 }
