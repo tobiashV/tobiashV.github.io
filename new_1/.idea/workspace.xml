@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03a6ca2b-6ace-4157-bec0-4c3bbebe3a68" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../new_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../new_2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_2/primer.html" beforeDir="false" afterPath="$PROJECT_DIR$/../new_2/primer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_2/styles/uslugi.css" beforeDir="false" afterPath="$PROJECT_DIR$/../new_2/styles/uslugi.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_2/aktsii.html" beforeDir="false" afterPath="$PROJECT_DIR$/../new_2/aktsii.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_2/styles/akstii.css" beforeDir="false" afterPath="$PROJECT_DIR$/../new_2/styles/akstii.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
