@@ -94,6 +94,8 @@ span {font-size: 1.4rem;
     .item:hover {
         flex-grow: inherit;
     }
+
+
 }
 @media  (max-width: 640px) {
     .slider {
@@ -109,13 +111,15 @@ span {font-size: 1.4rem;
     .item:hover {
         flex-grow: inherit;
     }
+
+
 }
-.container {width: 200px; height: 90px; text-align: center; margin: 0 auto}
+.container {width: 170px; height: 70px; text-align: center; margin: 0 auto}
 .fonzagolovok {
     background-image: url("../img/header/fonzagolovok.png" );
     background-size: cover;
-    width: 200px;
-    height: 90px;
+    width: 160px;
+    height: 70px;
     position: absolute;
     /*border-radius: 40%;*/
     margin-left: auto;
@@ -127,8 +131,8 @@ span {font-size: 1.4rem;
     }
 
 .zagolovok {text-align: center;
-    font-size: 22px;
-    padding: 35px 0 5px 0;
+    font-size: 20px;
+    padding: 30px 0 5px 0;
 position: relative;
 
     color: #FFFFFF;
@@ -155,4 +159,12 @@ position: relative;
     /*height: 200px; width: 400px !*padding: 10px; border-radius: 50%;*!*/
 
 /*}*/
+@media  (max-width: 640px) {
+    .container {width: 150px;height: 60px;}
+    .fonzagolovok {width: 140px;
+    height: 60px;}
+    .zagolovok {
+        font-size: 17px;
+    }
 
+}
