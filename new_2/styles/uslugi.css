@@ -19,14 +19,17 @@
     text-align: center;
     padding-top: 20px;
 }
-span {font-size: 1.4rem;
+span {font-size: 1.5rem;
     text-shadow: 1px 1px black, 1px -1px black, -1px 1px black, -1px -1px black, 4px 4px 8px black;
     /*background-color:rgba(0,0,0,.6);*/
-    /*padding:2px 2px;*/
+    /*padding:1px 1px;*/
+
+
 }
 
 .item:hover {
     flex-basis: 100%;
+
 
 
 }
@@ -37,9 +40,10 @@ span {font-size: 1.4rem;
 }
 .item-1 .bol_1 {display: none}
 .item-1:hover .bol_1 {display: block; background-color:rgba(0,0,0,.6);
-    padding:5px 10px;}
+    padding:5px 10px;
+}
 .bol_1 {margin-top:30px; font-size: 20px;}
-.bol_1 p {margin-bottom: 10px;}
+.bol_1 p {margin-bottom: 10px; }
 .item-2 {
     background: url("../img/uslugi/SLM9641.jpg")no-repeat center center;
     background-size: cover;
@@ -116,7 +120,7 @@ span {font-size: 1.4rem;
 }
 .container {width: 170px; height: 70px; text-align: center; margin: 0 auto}
 .fonzagolovok {
-    background-image: url("../img/header/fonzagolovok.png" );
+    background-image: url("../img/header/fonzagolovok_3.png" );
     background-size: cover;
     width: 160px;
     height: 70px;
