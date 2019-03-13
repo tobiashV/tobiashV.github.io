@@ -1,13 +1,8 @@
-/*.slider_aktsii {*/
-    /*!*display: flex;*!*/
-    /*!*justify-content: center;*!*/
-    /*!*align-items: center;*!*/
-    /*!*padding: 0;*!*/
-    /*!*margin-top: 10px;*!*/
-    /*color: white;*/
-    /*height: 30vh;*/
+.slider_aktsii {
 
-/*}*/
+    margin-top: 2px;
+
+}
 .slider a{text-decoration: none;
     color: white;
     }
@@ -32,14 +27,14 @@ span {
 
 .akstii-1:hover {
     flex-basis: 100%;
-    height: 30vh;
+    height: 40vh;
     background-size: cover;
     -webkit-filter: grayscale(99%);
     filter: grayscale(99%);
 }
 .akstii-2:hover {
     flex-basis: 100%;
-    height: 30vh;
+    height: 40vh;
     background-size: cover;
     -webkit-filter: grayscale(99%);
     filter: grayscale(99%);
@@ -49,7 +44,7 @@ span {
 }
 
 .akstii-1 {
-    background: url("../img/uslugi/SLM9553.jpg") no-repeat center center;
+    background: url("../img/aktsii/SLM9712.jpg") no-repeat center center;
     background-size: cover;
     height: 20vh;
     /*opacity: 0.5;*/
@@ -67,7 +62,7 @@ span {
 
 
 .akstii-2 {
-    background: url("../img/aktsii/Cw0ojcW1zig.jpg")no-repeat center center;
+    background: url("../img/aktsii/prazdnik-novyi-god-kofe-konfety-podarok.jpg")no-repeat center center;
     background-size: cover;
     height: 20vh;
     color: white;
@@ -115,6 +110,6 @@ span {
     }
     .akstii-2:hover {
         flex-grow: inherit;
-        height: 60vh;
+        height: 70vh;
     }
 }
