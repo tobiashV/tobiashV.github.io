@@ -82,14 +82,18 @@ span {
         flex-flow: column;
 
     }
+    .akstii-1 {height: 30vh}
+    .akstii-2 {height: 30vh}
 
     .item_aktsii {
         width: 100%;
     }
 
     .aktsii-1:hover {
-        flex-grow: inherit;
-        height: 60vh;
+        height: 70vh;
+    }
+    .aktsii-2:hover {
+        height: 70vh;
     }
 }
 @media  (max-width: 640px) {
