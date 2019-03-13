@@ -72,7 +72,7 @@ span {
 .akstii-2:hover .bol_2 {display: block;background-color:rgba(0,0,0,.6);
     padding:10px 10px; text-align: justify}
 .bol_2 {margin-top:20px; font-size: 17px;}
-.bol_2 p {margin-bottom: 10px}
+.bol_2 p {margin-bottom: 10px; text-align: justify}
 
 
 
@@ -82,18 +82,20 @@ span {
         flex-flow: column;
 
     }
-    .akstii-1 {height: 30vh}
-    .akstii-2 {height: 30vh}
+    .akstii-1 {height: 25vh}
+    .akstii-2 {height: 25vh}
 
     .item_aktsii {
         width: 100%;
     }
 
     .aktsii-1:hover {
-        height: 70vh;
+        flex-grow: inherit;
+        height: 50vh;
     }
     .aktsii-2:hover {
-        height: 70vh;
+        flex-grow: inherit;
+        height: 55vh;
     }
 }
 @media  (max-width: 640px) {
