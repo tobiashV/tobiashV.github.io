@@ -1,3 +1,13 @@
+div.akstii-1:hover, div.akstii-1:active {
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    -webkit-user-select: none;
+    -webkit-touch-callout: none
+}
+div.akstii-2:hover, div.akstii-2:active {
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    -webkit-user-select: none;
+    -webkit-touch-callout: none
+}
 .slider_aktsii {
 
     margin-top: 2px;
@@ -35,15 +45,7 @@ span {
     transition: all 0.5s;
 
 }
-.akstii-1:active {
-    flex-basis: 100%;
-    height: 40vh;
-    background-size: cover;
-    -webkit-filter: grayscale(99%);
-    filter: grayscale(99%);
-    transition: all 0.5s;
 
-}
 .akstii-2:hover {
     flex-basis: 100%;
     height: 40vh;
@@ -90,8 +92,7 @@ span {
 .akstii-1 .bol_1 {display: none; }
 .akstii-1:hover .bol_1 {display: block;background-color:rgba(0,0,0,.6);
     padding:5px 5px;text-align: justify}
-.akstii-1:active .bol_1 {display: block;background-color:rgba(0,0,0,.6);
-    padding:5px 5px;text-align: justify}
+
 
 .bol_1 {margin-top:20px; font-size: 17px;}
 .bol_1 p {margin-bottom: 10px}
@@ -131,10 +132,7 @@ span {
         flex-grow: inherit;
         height: 60vh;
     }
-    .akstii-1:active {
-        flex-grow: inherit;
-        height: 60vh;
-    }
+
     .akstii-2:hover {
         flex-grow: inherit;
         height: 70vh;
@@ -158,10 +156,7 @@ span {
         flex-grow: inherit;
         height: 70vh;
     }
-    .akstii-1:active {
-        flex-grow: inherit;
-        height: 70vh;
-    }
+
     .akstii-2:hover {
         flex-grow: inherit;
         height: 80vh;
@@ -176,10 +171,7 @@ span {
         flex-grow: inherit;
         height: 40vh;
     }
-    .akstii-1:active {
-        flex-grow: inherit;
-        height: 40vh;
-    }
+
     .akstii-2:hover {
         flex-grow: inherit;
         height: 52vh;
