@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86f83d1d-caa6-4567-8d8e-deb05173cb05" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/styles/akstii.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/akstii.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/uslugi.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/uslugi.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,13 +43,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="3477" />
+          <entry key="css" value="3487" />
           <entry key="html" value="2460" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="3477" />
+          <entry key="CSS" value="3487" />
           <entry key="HTML" value="2460" />
         </counts>
       </usages-collector>
@@ -92,8 +93,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles/akstii.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-374">
-              <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -101,11 +102,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/styles/uslugi.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="97" column="5" lean-forward="true" selection-start-line="97" selection-start-column="5" selection-end-line="97" selection-end-column="5" />
+            <state relative-caret-position="357">
+              <caret line="96" column="20" lean-forward="true" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
               <folding>
-                <marker date="1552570260356" expanded="true" signature="2917:2930" ph="..." />
-                <marker date="1552570260356" expanded="true" signature="3115:3147" ph="..." />
+                <marker date="1552570896340" expanded="true" signature="2917:2930" ph="..." />
+                <marker date="1552570896340" expanded="true" signature="3115:3147" ph="..." />
               </folding>
             </state>
           </provider>
@@ -138,8 +139,8 @@
         <option value="$PROJECT_DIR$/aktsii_1.html" />
         <option value="$PROJECT_DIR$/styles/akstii_1.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/styles/akstii.css" />
         <option value="$PROJECT_DIR$/aktsii.html" />
+        <option value="$PROJECT_DIR$/styles/akstii.css" />
         <option value="$PROJECT_DIR$/styles/uslugi.css" />
       </list>
     </option>
@@ -235,12 +236,12 @@
       <workItem from="1551088445046" duration="1918000" />
       <workItem from="1551093868504" duration="26256000" />
       <workItem from="1551194453477" duration="18429000" />
-      <workItem from="1551373947458" duration="53008000" />
+      <workItem from="1551373947458" duration="53636000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99611000" />
+    <option name="totallyTimeSpent" value="100239000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -424,13 +425,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/akstii.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-374">
-          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/uslugi/SLM9639.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -469,13 +463,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/styles/akstii.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/styles/uslugi.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="97" column="5" lean-forward="true" selection-start-line="97" selection-start-column="5" selection-end-line="97" selection-end-column="5" />
+        <state relative-caret-position="357">
+          <caret line="96" column="20" lean-forward="true" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
           <folding>
-            <marker date="1552570260356" expanded="true" signature="2917:2930" ph="..." />
-            <marker date="1552570260356" expanded="true" signature="3115:3147" ph="..." />
+            <marker date="1552570896340" expanded="true" signature="2917:2930" ph="..." />
+            <marker date="1552570896340" expanded="true" signature="3115:3147" ph="..." />
           </folding>
         </state>
       </provider>

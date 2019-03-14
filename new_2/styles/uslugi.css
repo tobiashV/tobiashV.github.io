@@ -88,7 +88,7 @@ span {font-size: 1.5rem;
 
 @media  (max-width: 780px) {
     .slider {
-        height: 110vh;
+        height: 150vh;
         flex-flow: column;
 
     }

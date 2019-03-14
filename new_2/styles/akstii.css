@@ -121,8 +121,8 @@ span {
         flex-flow: column;
 
     }
-    .akstii-1 {height: 25vh}
-    .akstii-2 {height: 25vh}
+    .akstii-1 {height: 35vh}
+    .akstii-2 {height: 35vh}
 
     .item_aktsii {
         width: 100%;
@@ -130,12 +130,12 @@ span {
 
     .akstii-1:hover {
         flex-grow: inherit;
-        height: 40vh;
+        height: 60vh;
     }
 
     .akstii-2:hover {
         flex-grow: inherit;
-        height: 50vh;
+        height: 70vh;
     }
 }
 @media  (max-width: 640px) {
