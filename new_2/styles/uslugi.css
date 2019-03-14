@@ -13,7 +13,7 @@
     background-color: lightgray;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 50vh;
     color: white;
     transition: all 0.2s;
     text-align: center;
@@ -42,7 +42,7 @@ span {font-size: 1.5rem;
 .item-1:hover .bol_1 {display: block; background-color:rgba(0,0,0,.6);
 
 }
-.bol_1 {margin-top:30px; font-size: 20px;}
+.bol_1 {margin-top:20px; font-size: 20px;}
 .bol_1 p {margin-bottom: 5px; }
 .item-2 {
     background: url("../img/uslugi/SLM9641.jpg")no-repeat center center;
@@ -51,7 +51,7 @@ span {font-size: 1.5rem;
 .item-2 .bol_2 {display: none}
 .item-2:hover .bol_2 {display: block;background-color:rgba(0,0,0,.6);
     }
-.bol_2 {margin-top:30px; font-size: 20px;}
+.bol_2 {margin-top:20px; font-size: 20px;}
 .bol_2 p {margin-bottom: 5px}
 
 .item-3 {
@@ -61,7 +61,7 @@ span {font-size: 1.5rem;
 .item-3 .bol_3 {display: none}
 .item-3:hover .bol_3 {display: block;background-color:rgba(0,0,0,.6);
     }
-.bol_3 {margin-top:30px; font-size: 20px;}
+.bol_3 {margin-top:20px; font-size: 20px;}
 .bol_3 p {margin-bottom: 5px}
 
 .item-4 {
@@ -71,7 +71,7 @@ span {font-size: 1.5rem;
 .item-4 .bol_4 {display: none}
 .item-4:hover .bol_4 {display: block;background-color:rgba(0,0,0,.6);
     }
-.bol_4 {margin-top:30px; font-size: 20px;}
+.bol_4 {margin-top:20px; font-size: 20px;}
 .bol_4 p {margin-bottom: 5px}
 
 .item-5 {
@@ -81,7 +81,7 @@ span {font-size: 1.5rem;
 .item-5 .bol_5 {display: none}
 .item-5:hover .bol_5 {display: block;background-color:rgba(0,0,0,.6);
     }
-.bol_5 {margin-top:30px; font-size: 20px;}
+.bol_5 {margin-top:20px; font-size: 20px;}
 .bol_5 p {margin-bottom: 5px}
 
 @media  (max-width: 780px) {

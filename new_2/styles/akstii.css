@@ -58,7 +58,7 @@ span {
 
 .akstii-1 .bol_1 {display: none; }
 .akstii-1:hover .bol_1 {display: block;background-color:rgba(0,0,0,.6);
-    padding:10px 10px;text-align: justify}
+    padding:5px 5px;text-align: justify}
 
 .bol_1 {margin-top:20px; font-size: 17px;}
 .bol_1 p {margin-bottom: 10px}
@@ -75,7 +75,7 @@ span {
 }
 .akstii-2 .bol_2 {display: none}
 .akstii-2:hover .bol_2 {display: block;background-color:rgba(0,0,0,.6);
-    padding:10px 10px; text-align: justify}
+    padding:5px 5px; text-align: justify}
 .bol_2 {margin-top:20px; font-size: 17px;}
 .bol_2 p {margin-bottom: 10px; text-align: justify}
 
