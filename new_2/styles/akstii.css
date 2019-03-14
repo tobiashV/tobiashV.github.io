@@ -35,7 +35,7 @@ span {
     transition: all 0.5s;
 
 }
-.akstii-1:focus {
+.akstii-1:active {
     flex-basis: 100%;
     height: 40vh;
     background-size: cover;
@@ -90,7 +90,7 @@ span {
 .akstii-1 .bol_1 {display: none; }
 .akstii-1:hover .bol_1 {display: block;background-color:rgba(0,0,0,.6);
     padding:5px 5px;text-align: justify}
-.akstii-1:focus .bol_1 {display: block;background-color:rgba(0,0,0,.6);
+.akstii-1:active .bol_1 {display: block;background-color:rgba(0,0,0,.6);
     padding:5px 5px;text-align: justify}
 
 .bol_1 {margin-top:20px; font-size: 17px;}
@@ -131,7 +131,7 @@ span {
         flex-grow: inherit;
         height: 60vh;
     }
-    .akstii-1:focus {
+    .akstii-1:active {
         flex-grow: inherit;
         height: 60vh;
     }
@@ -158,7 +158,7 @@ span {
         flex-grow: inherit;
         height: 70vh;
     }
-    .akstii-1:focus {
+    .akstii-1:active {
         flex-grow: inherit;
         height: 70vh;
     }
@@ -176,7 +176,7 @@ span {
         flex-grow: inherit;
         height: 40vh;
     }
-    .akstii-1:focus {
+    .akstii-1:active {
         flex-grow: inherit;
         height: 40vh;
     }
