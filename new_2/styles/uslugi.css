@@ -15,7 +15,7 @@
     align-items: center;
     height: 50vh;
     color: white;
-    transition: all 0.2s;
+    transition: all 0.5s;
     text-align: center;
     padding-top: 20px;
 }
@@ -42,7 +42,7 @@ span {font-size: 1.5rem;
 .item-1:hover .bol_1 {display: block; background-color:rgba(0,0,0,.6);
 
 }
-.bol_1 {margin-top:20px; font-size: 20px;}
+.bol_1 {margin-top:20px; font-size: 18px;}
 .bol_1 p {margin-bottom: 5px; }
 .item-2 {
     background: url("../img/uslugi/SLM9641.jpg")no-repeat center center;

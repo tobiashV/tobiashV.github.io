@@ -1,6 +1,7 @@
 .slider_aktsii {
 
     margin-top: 2px;
+    transition: all 0.5s;
 
 }
 .slider a{text-decoration: none;
@@ -31,6 +32,8 @@ span {
     background-size: cover;
     -webkit-filter: grayscale(99%);
     filter: grayscale(99%);
+    transition: all 0.5s;
+
 }
 .akstii-2:hover {
     flex-basis: 100%;
@@ -38,6 +41,8 @@ span {
     background-size: cover;
     -webkit-filter: grayscale(99%);
     filter: grayscale(99%);
+    transition: all 0.5s;
+
 
 }
 .data {font-size: 12px; padding: 5px 10px;
