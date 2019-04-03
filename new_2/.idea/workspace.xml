@@ -1,37 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86f83d1d-caa6-4567-8d8e-deb05173cb05" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/gallery/SLM5762-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/SLM5775-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/SLM5807-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/SLM5832-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/SLM5905-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/SLM5983-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/SLM6016-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/SLM6046-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/SLM6072-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/SLM6108-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/SLM6145-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/SLM9555-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/SLM9560-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/SLM9636-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/SLM9656-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/SLM9664-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/SLM9679-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/SLM9688-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/SLM9711-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/SLM9712-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/SLM9719-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/SLM9735-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/SLM9757-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/SLM9759-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/SLM9851-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/SLM9865-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/SLM9866-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="86f83d1d-caa6-4567-8d8e-deb05173cb05" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,7 +171,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="45" />
     <option name="y" value="8" />
     <option name="width" value="1378" />
@@ -294,16 +264,15 @@
       <workItem from="1551194453477" duration="18429000" />
       <workItem from="1551373947458" duration="54261000" />
       <workItem from="1552677576302" duration="13040000" />
-      <workItem from="1554319349355" duration="913000" />
+      <workItem from="1554319349355" duration="1459000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114817000" />
+    <option name="totallyTimeSpent" value="115363000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.1633888" />
