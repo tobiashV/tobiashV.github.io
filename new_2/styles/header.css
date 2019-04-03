@@ -1,5 +1,6 @@
 body {
-    font-family: 'Raleway', sans-serif;
+    font-family: Gabriola, sans-serif;
+
     background-image: url(../img/header/bg-light-4862.png);
     background-repeat: repeat;
 }
@@ -29,7 +30,7 @@ nav {width: 100%;
 .topnav a {color: black;
     text-align: center;
     padding: 14px 16px;
-    font-size: 19px;
+    font-size: 25px;
 
 
 
@@ -48,7 +49,7 @@ nav {width: 100%;
         color: black}
     nav {width: 100%;}
     .topnav.responsive {position: relative;
-        height: 250px;}
+        height: 280px;}
     .topnav.responsive a.icon {position: relative;
         right: 0px;
         top: 10px;}
