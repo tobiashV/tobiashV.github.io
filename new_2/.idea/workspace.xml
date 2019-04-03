@@ -2,39 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86f83d1d-caa6-4567-8d8e-deb05173cb05" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/aktsii/SLM619011111.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/aktsii/SLM971211.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/aktsii/bar/SLM6144.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/aktsii/bar/SLM6198.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/aktsii/bar/SLM6358.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/aktsii/bar/SLM6362.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/aktsii/bar/SLM6378.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/aktsii/bar/SLM6393.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/aktsii/bar/SLM6411.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/aktsii/bar/SLM6419.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/aktsii/prazdnik-novyi-god-kofe-konfety.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/uslugi/SLM956411.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/uslugi/SLM963911.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/uslugi/SLM967611.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/uslugi/SLM973211.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/SLM5762-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/SLM5775-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/SLM5807-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/SLM5832-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/SLM5905-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/SLM5983-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/SLM6016-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/SLM6046-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/SLM6072-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/SLM6108-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/SLM6145-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/SLM9555-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/SLM9560-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/SLM9636-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/SLM9656-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/SLM9664-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/SLM9679-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/SLM9688-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/SLM9711-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/SLM9712-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/SLM9719-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/SLM9735-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/SLM9757-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/SLM9759-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/SLM9851-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/SLM9865-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/SLM9866-1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aktsii.html" beforeDir="false" afterPath="$PROJECT_DIR$/aktsii.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/aktsii/SLM6190-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/aktsii/SLM9712.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/aktsii/YCYb02ABtaO.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/aktsii/bar/SLM6144-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/aktsii/bar/SLM6198-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/aktsii/bar/SLM6358-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/aktsii/bar/SLM6362-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/aktsii/bar/SLM6378-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/aktsii/bar/SLM6393-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/aktsii/bar/SLM6411-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/aktsii/bar/SLM6419-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/aktsii/prazdnik-novyi-god-kofe-konfety-podarok.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/SLM9559.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/akstii.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/akstii.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/uslugi.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/uslugi.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,8 +46,9 @@
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.62" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -59,7 +56,7 @@
           <entry key="JPG" value="18" />
           <entry key="css" value="36" />
           <entry key="html" value="27" />
-          <entry key="jpg" value="42" />
+          <entry key="jpg" value="43" />
           <entry key="js" value="3" />
           <entry key="png" value="19" />
         </counts>
@@ -68,31 +65,31 @@
         <counts>
           <entry key="CSS" value="36" />
           <entry key="HTML" value="27" />
-          <entry key="Image" value="79" />
+          <entry key="Image" value="80" />
           <entry key="JavaScript" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="3759" />
-          <entry key="html" value="2743" />
+          <entry key="html" value="2792" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="3759" />
-          <entry key="HTML" value="2743" />
+          <entry key="HTML" value="2792" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-251">
-              <caret line="91" column="21" selection-start-line="91" selection-start-column="21" selection-end-line="91" selection-end-column="21" />
+            <state relative-caret-position="477">
+              <caret line="230" lean-forward="true" selection-start-line="230" selection-end-line="230" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -106,6 +103,17 @@
                 <element signature="n#style#0;n#img#0;n#div#10;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#11;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#12;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#13;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#14;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#15;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#16;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#17;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#18;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#19;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#20;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#21;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#22;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#23;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -114,8 +122,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/aktsii.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="61" column="27" lean-forward="true" selection-start-line="61" selection-start-column="27" selection-end-line="61" selection-end-column="27" />
+            <state relative-caret-position="1037">
+              <caret line="61" column="27" selection-start-line="61" selection-start-column="27" selection-end-line="61" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -123,8 +131,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles/header.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-900">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <marker date="1554278060036" expanded="true" signature="0:140" ph="..." />
               </folding>
@@ -132,11 +140,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles/uslugi.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+              <caret line="67" selection-start-line="67" selection-end-line="67" />
               <folding>
                 <marker date="1554314765485" expanded="true" signature="2925:2938" ph="..." />
                 <marker date="1554314765485" expanded="true" signature="3123:3155" ph="..." />
@@ -148,8 +156,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles/akstii.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="90" column="21" lean-forward="true" selection-start-line="90" selection-start-column="21" selection-end-line="90" selection-end-column="21" />
+            <state relative-caret-position="1530">
+              <caret line="90" column="21" selection-start-line="90" selection-start-column="21" selection-end-line="90" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -180,10 +188,10 @@
         <option value="$PROJECT_DIR$/styles/akstii_1.css" />
         <option value="$PROJECT_DIR$/contacts.html" />
         <option value="$PROJECT_DIR$/styles/header.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/aktsii.html" />
         <option value="$PROJECT_DIR$/styles/akstii.css" />
         <option value="$PROJECT_DIR$/styles/uslugi.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -193,7 +201,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="45" />
     <option name="y" value="8" />
     <option name="width" value="1378" />
@@ -205,6 +213,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -221,7 +230,7 @@
               <item name="new_2" type="b2602c69:ProjectViewProjectNode" />
               <item name="new_2" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="uslugi" type="462c0819:PsiDirectoryNode" />
+              <item name="gallery" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="new_2" type="b2602c69:ProjectViewProjectNode" />
@@ -232,7 +241,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -244,19 +252,19 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Пользователь\Documents\GitHub\tobiashV.github.io\new_2\img\uslugi" />
-      <recent name="C:\Users\Пользователь\Documents\GitHub\tobiashV.github.io\new_2\img\aktsii" />
-      <recent name="C:\Users\Пользователь\Documents\GitHub\tobiashV.github.io\new_2\img\aktsii\bar" />
-      <recent name="C:\Users\Пользователь\Documents\GitHub\tobiashV.github.io\new_2\styles" />
-      <recent name="C:\Users\Пользователь\Documents\GitHub\tobiashV.github.io\new_2" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Пользователь\Documents\GitHub\tobiashV.github.io\new_2\img\aktsii" />
       <recent name="C:\Users\Пользователь\Documents\GitHub\tobiashV.github.io\new_2\img\header" />
       <recent name="C:\Users\Пользователь\Documents\GitHub\tobiashV.github.io\new_2\styles" />
       <recent name="C:\Users\Пользователь\Documents\GitHub\tobiashV.github.io\new_2\js" />
       <recent name="C:\Users\Пользователь\Documents\GitHub\tobiashV.github.io\new_2\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Пользователь\Documents\GitHub\tobiashV.github.io\new_2\img\gallery" />
+      <recent name="C:\Users\Пользователь\Documents\GitHub\tobiashV.github.io\new_2\img\uslugi" />
+      <recent name="C:\Users\Пользователь\Documents\GitHub\tobiashV.github.io\new_2\img\aktsii" />
+      <recent name="C:\Users\Пользователь\Documents\GitHub\tobiashV.github.io\new_2\img\aktsii\bar" />
+      <recent name="C:\Users\Пользователь\Documents\GitHub\tobiashV.github.io\new_2\styles" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -285,19 +293,20 @@
       <workItem from="1551093868504" duration="26256000" />
       <workItem from="1551194453477" duration="18429000" />
       <workItem from="1551373947458" duration="54261000" />
-      <workItem from="1552677576302" duration="12418000" />
+      <workItem from="1552677576302" duration="13040000" />
+      <workItem from="1554319349355" duration="913000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113282000" />
+    <option name="totallyTimeSpent" value="114817000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.31240544" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.1633888" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
@@ -324,7 +333,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/header/00574c696b1d67e.jpg" />
     <entry file="file://$PROJECT_DIR$/img/header/imgonline-com-ua-Transparent-backgr-n44NQCamg2NOCH.png" />
     <entry file="file://$PROJECT_DIR$/img/header/pink-1332302_960_720.jpg" />
     <entry file="file://$PROJECT_DIR$/img/uslugi/uslugi_1.jpg" />
@@ -393,15 +401,11 @@
     <entry file="file://$PROJECT_DIR$/img/gallery/SLM9688.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/uslugi/SLM9564.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/img/uslugi/SLM9564.jpg" />
     <entry file="file://$PROJECT_DIR$/img/uslugi/SLM9610.jpg" />
     <entry file="file://$PROJECT_DIR$/img/uslugi/1.jpg" />
     <entry file="file://$PROJECT_DIR$/img/aktsii/Cw0ojcW1zig.jpg" />
-    <entry file="file://$PROJECT_DIR$/img/gallery/SLM9559.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/img/gallery/SLM9559.jpg" />
     <entry file="file://$PROJECT_DIR$/img/uslugi/SLM9606.jpg" />
     <entry file="file://$PROJECT_DIR$/styles/slider.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -410,12 +414,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/uslugi/SLM9639.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/uslugi/SLM9676.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/img/uslugi/SLM9639.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/uslugi/SLM9676.jpg" />
     <entry file="file://$PROJECT_DIR$/img/gallery/SLM9636.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -423,72 +423,63 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="36" column="115" lean-forward="true" selection-start-line="36" selection-start-column="115" selection-end-line="36" selection-end-column="115" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/akstii_1.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="183" column="13" lean-forward="true" selection-start-line="183" selection-start-column="13" selection-end-line="183" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aktsii_1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/akstii_1.css" />
+    <entry file="file://$PROJECT_DIR$/aktsii_1.html" />
     <entry file="file://$PROJECT_DIR$/img/gallery/SLM9759.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/aktsii/YCYb02ABtaO.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/img/aktsii/YCYb02ABtaO.jpg" />
     <entry file="file://$PROJECT_DIR$/img/aktsii/SLM619011111.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/aktsii/SLM6190-1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/img/aktsii/SLM6190-1.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/aktsii/SLM9712.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/aktsii/prazdnik-novyi-god-kofe-konfety-podarok.jpg" />
     <entry file="file://$PROJECT_DIR$/aktsii.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="61" column="27" lean-forward="true" selection-start-line="61" selection-start-column="27" selection-end-line="61" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/aktsii/SLM9712.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/aktsii/prazdnik-novyi-god-kofe-konfety-podarok.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles/akstii.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="90" column="21" lean-forward="true" selection-start-line="90" selection-start-column="21" selection-end-line="90" selection-end-column="21" />
+        <state relative-caret-position="1037">
+          <caret line="61" column="27" selection-start-line="61" selection-start-column="27" selection-end-line="61" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/header.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-900">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <marker date="1554278060036" expanded="true" signature="0:140" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/styles/akstii.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="90" column="21" selection-start-line="90" selection-start-column="21" selection-end-line="90" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/uslugi.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <marker date="1554314765485" expanded="true" signature="2925:2938" ph="..." />
+            <marker date="1554314765485" expanded="true" signature="3123:3155" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/gallery/SLM9851-1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-251">
-          <caret line="91" column="21" selection-start-line="91" selection-start-column="21" selection-end-line="91" selection-end-column="21" />
+        <state relative-caret-position="477">
+          <caret line="230" lean-forward="true" selection-start-line="230" selection-end-line="230" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -502,17 +493,17 @@
             <element signature="n#style#0;n#img#0;n#div#10;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#11;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#12;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles/uslugi.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
-          <folding>
-            <marker date="1554314765485" expanded="true" signature="2925:2938" ph="..." />
-            <marker date="1554314765485" expanded="true" signature="3123:3155" ph="..." />
+            <element signature="n#style#0;n#img#0;n#div#13;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#14;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#15;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#16;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#17;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#18;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#19;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#20;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#21;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#22;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#23;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
