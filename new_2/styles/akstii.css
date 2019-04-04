@@ -284,7 +284,7 @@ span {
         top: 55%;
     }
 
-    #gallery img:focus {
+    #gallery a img:focus {
         position: absolute;
         left: 50%;
         z-index: 1;
