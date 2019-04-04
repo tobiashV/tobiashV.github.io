@@ -256,7 +256,7 @@ span {
         user-select: none;
     }
 
-    #gallery img {
+    #gallery img{
         position: absolute;
         top: 20%;
         left: 12.5%;
@@ -284,7 +284,7 @@ span {
         top: 55%;
     }
 
-    #gallery a img:focus {
+    #gallery img:focus {
         position: absolute;
         left: 50%;
         z-index: 1;
@@ -294,7 +294,7 @@ span {
         pointer-events: none;
     }
 
-    #gallery img:focus ~ div {
+    #gallery a img:focus ~ div {
         position: absolute;
         top: 0;
         left: 0;
