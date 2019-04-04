@@ -18,6 +18,13 @@ div.akstii-3:hover, div.akstii-3:active {
     -webkit-user-select: none;
     -webkit-touch-callout: none
 }
+#gallery img:focus ~ div, #gallery img:focus ~ div:active {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -webkit-user-select: none;
+    -webkit-touch-callout: none
+
+}
+
 
 .slider_aktsii {
 
