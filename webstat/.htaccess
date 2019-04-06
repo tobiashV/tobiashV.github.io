@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/tobiash-studio.dn.ua/webstat"
+AuthUserFile /var/www/val1981/data/etc/108804325.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>
