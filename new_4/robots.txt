@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /img
+Allow: /js
+Allow: /styles
+Disallow: /cgi-bin
+
+User-agent: Yandex
+Allow: /img
+Allow: /js
+Allow: /styles
+Disallow: /cgi-bin
+
+User-agent: Googlebot
+Allow: /img
+Allow: /js
+Allow: /styles
+Disallow: /cgi-bin
+
+Host: tobiash-studio.dn.ua
+Sitemap: http://tobiash-studio.dn.ua/sitemap.xml

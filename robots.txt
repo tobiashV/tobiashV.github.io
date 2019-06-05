@@ -1,2 +1,6 @@
 User-agent: *
 Crawl-delay: 10
+User-agent: Yandex
+User-agent: Googlebot
+
+Sitemap: http://tobiash-studio.dn.ua/sitemap.xml
