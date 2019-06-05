@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86f83d1d-caa6-4567-8d8e-deb05173cb05" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/styles/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/aktsii/dr-aktsii/IMG-cc6ec23c1df13d1e00b550424e5d9a9b-V.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aktsii.html" beforeDir="false" afterPath="$PROJECT_DIR$/aktsii.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/contacts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/price.html" beforeDir="false" afterPath="$PROJECT_DIR$/price.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,25 +100,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="50" />
-          <entry key="html" value="143" />
+          <entry key="css" value="56" />
+          <entry key="html" value="197" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="50" />
-          <entry key="HTML" value="143" />
+          <entry key="CSS" value="56" />
+          <entry key="HTML" value="197" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="2" />
+          <entry key="css" value="3" />
+          <entry key="html" value="2" />
           <entry key="jpg" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="2" />
+          <entry key="CSS" value="3" />
+          <entry key="HTML" value="2" />
           <entry key="Image" value="2" />
         </counts>
       </usages-collector>
@@ -124,8 +131,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-136">
-              <caret line="46" column="154" selection-start-line="46" selection-start-column="147" selection-end-line="46" selection-end-column="223" />
+            <state relative-caret-position="-476">
+              <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -154,11 +161,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/aktsii.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="81" column="24" selection-start-line="81" selection-start-column="24" selection-end-line="81" selection-end-column="24" />
+            <state relative-caret-position="289">
+              <caret line="83" column="140" selection-start-line="83" selection-start-column="140" selection-end-line="83" selection-end-column="140" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -167,19 +174,35 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contacts.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="40" column="43" lean-forward="true" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
+              <folding>
+                <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles/akstii.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-356">
+            <state relative-caret-position="1445">
               <caret line="375" column="25" lean-forward="true" selection-start-line="375" selection-start-column="25" selection-end-line="375" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/styles/header.css">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/price.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
+            <state relative-caret-position="364">
+              <caret line="41" column="141" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="148" />
+              <folding>
+                <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -208,12 +231,12 @@
         <option value="$PROJECT_DIR$/aktsii_1.html" />
         <option value="$PROJECT_DIR$/styles/akstii_1.css" />
         <option value="$PROJECT_DIR$/styles/uslugi.css" />
-        <option value="$PROJECT_DIR$/contacts.html" />
-        <option value="$PROJECT_DIR$/price.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/aktsii.html" />
         <option value="$PROJECT_DIR$/styles/akstii.css" />
         <option value="$PROJECT_DIR$/styles/header.css" />
+        <option value="$PROJECT_DIR$/price.html" />
+        <option value="$PROJECT_DIR$/contacts.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/aktsii.html" />
       </list>
     </option>
   </component>
@@ -257,6 +280,13 @@
             <path>
               <item name="new_5" type="b2602c69:ProjectViewProjectNode" />
               <item name="new_5" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="aktsii" type="462c0819:PsiDirectoryNode" />
+              <item name="dr-aktsii" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new_5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new_5" type="462c0819:PsiDirectoryNode" />
               <item name="styles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -274,19 +304,19 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Пользователь\Documents\GitHub\tobiashV.github.io\new_2\img\aktsii" />
-      <recent name="C:\Users\Пользователь\Documents\GitHub\tobiashV.github.io\new_2\img\aktsii\brush" />
-      <recent name="C:\Users\Пользователь\Documents\GitHub\tobiashV.github.io\new_2\img\gallery" />
-      <recent name="C:\Users\Пользователь\Documents\GitHub\tobiashV.github.io\new_2\img\uslugi" />
-      <recent name="C:\Users\Пользователь\Documents\GitHub\tobiashV.github.io\new_2\img\aktsii\bar" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Пользователь\Documents\GitHub\tobiashV.github.io\new_2\img\aktsii" />
       <recent name="C:\Users\Пользователь\Documents\GitHub\tobiashV.github.io\new_2\img\header" />
       <recent name="C:\Users\Пользователь\Documents\GitHub\tobiashV.github.io\new_2\styles" />
       <recent name="C:\Users\Пользователь\Documents\GitHub\tobiashV.github.io\new_2\js" />
       <recent name="C:\Users\Пользователь\Documents\GitHub\tobiashV.github.io\new_2\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Пользователь\Documents\GitHub\tobiashV.github.io\new_5\img\aktsii\dr-aktsii" />
+      <recent name="C:\Users\Пользователь\Documents\GitHub\tobiashV.github.io\new_2\img\aktsii" />
+      <recent name="C:\Users\Пользователь\Documents\GitHub\tobiashV.github.io\new_2\img\aktsii\brush" />
+      <recent name="C:\Users\Пользователь\Documents\GitHub\tobiashV.github.io\new_2\img\gallery" />
+      <recent name="C:\Users\Пользователь\Documents\GitHub\tobiashV.github.io\new_2\img\uslugi" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -320,15 +350,15 @@
       <workItem from="1554543290488" duration="15977000" />
       <workItem from="1555588267279" duration="3273000" />
       <workItem from="1559641585556" duration="1918000" />
-      <workItem from="1559718173981" duration="2942000" />
+      <workItem from="1559718173981" duration="6640000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="153151000" />
+    <option name="totallyTimeSpent" value="156849000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
@@ -472,10 +502,23 @@
     <entry file="file://$PROJECT_DIR$/img/aktsii/brush/4_LS3AIWW0-1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/aktsii/SLM971211-11.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/aktsii/SLM619011111-11.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="82" column="14" selection-start-line="82" selection-start-column="14" selection-end-line="82" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/price.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+        <state relative-caret-position="364">
+          <caret line="41" column="141" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="148" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -484,8 +527,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/contacts.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+        <state relative-caret-position="483">
+          <caret line="40" column="43" lean-forward="true" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -493,33 +536,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aktsii.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="81" column="24" selection-start-line="81" selection-start-column="24" selection-end-line="81" selection-end-column="24" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/aktsii/SLM971211-11.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/aktsii/SLM619011111-11.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/styles/akstii.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-356">
+        <state relative-caret-position="1445">
           <caret line="375" column="25" lean-forward="true" selection-start-line="375" selection-start-column="25" selection-end-line="375" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-136">
-          <caret line="46" column="154" selection-start-line="46" selection-start-column="147" selection-end-line="46" selection-end-column="223" />
+        <state relative-caret-position="-476">
+          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -547,10 +574,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/header.css">
+    <entry file="file://$PROJECT_DIR$/aktsii.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
+        <state relative-caret-position="289">
+          <caret line="83" column="140" selection-start-line="83" selection-start-column="140" selection-end-line="83" selection-end-column="140" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
