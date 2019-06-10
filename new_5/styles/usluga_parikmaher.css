@@ -1,0 +1,82 @@
+.blok_parimaher {height: 100%; width: 90%; margin: 0 auto; background-image:url("../img/header/fonlogo.JPG");
+    border-radius: 20px 20px 20px 20px; margin-top: 10px; box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 5px 5px rgba(0,0,0,0.22); padding: 10PX 10PX}
+
+/*.blok_parimaher h2 {text-align: center}*/
+.blok_parimaher p {padding: 5px 10px 10px 10px; text-align: justify; text-indent: 1.5em; line-height: 1.5}
+
+/*.foto_parikmaher {*/
+    /*width: 96%;*/
+    /*max-width: 960px;*/
+    /*margin: 0 auto; */
+/*}*/
+.foto_parikmaher_1 img {
+    width: 45%; float: left;
+    padding-right: 10px;
+}
+
+.foto_parikmaher_2 img {
+    width: 45%; float: right;
+    padding-left: 10px;
+}
+
+@media screen and (max-width: 760px) {
+    .foto_parikmaher_1 img {
+        width: 100%;}
+    .foto_parikmaher_2 img{
+        width: 100%;
+    }
+}
+
+
+
+
+
+
+
+
+
+ul#gramituldented {
+    width:90%;
+    padding:0;
+    text-align:center;
+    cursor:pointer;
+    margin: 0 auto;
+}
+
+ul#gramituldented li {
+    display:inline-block;
+    width:24%;
+    height:215px;
+    object-fit:cover;
+    margin:4px 1px;
+    overflow:hidden
+}
+
+ul#gramituldented li img {
+    width:100%;
+    height:100%;
+    object-fit:cover;
+    -moz-transition:all 2s ease-out;
+    -o-transition:all 2s ease-out;
+    -webkit-transition:all 2s ease-out
+}
+
+ul#gramituldented li img:hover {
+    -webkit-transform:scale(1.8);
+    -moz-transform:scale(1.8);
+    -o-transform:scale(1.8)
+}
+
+@media only screen and (max-width:480px) {
+    ul#gramituldented li {
+        width:100%;
+        margin:2%
+    }
+}
+
+@media only screen and (max-width:960px) {
+    ul#gramituldented li {
+        width:45%;
+        height:140px
+    }
+}

@@ -3,27 +3,33 @@
 <!-- Файл sitemap.xml создан 17.04.2019 15:47,
 	всего найдено 4. страниц-->
 	<url>
-		<loc>http://tobiash-studio.dn.ua/</loc>
+		<loc>https://tobiash-studio.dn.ua/</loc>
 		<lastmod>2019-04-17T15:47:12+03:00</lastmod>
 		<priority>1</priority>
 		<changefreq>always</changefreq>
 	</url>
 	<url>
-		<loc>http://tobiash-studio.dn.ua/price.html</loc>
+		<loc>https://tobiash-studio.dn.ua/price.html</loc>
 		<lastmod>2019-04-17T15:47:12+03:00</lastmod>
 		<priority>0.5</priority>
 		<changefreq>hourly</changefreq>
 	</url>
 	<url>
-		<loc>http://tobiash-studio.dn.ua/aktsii.html</loc>
+		<loc>https://tobiash-studio.dn.ua/aktsii.html</loc>
 		<lastmod>2019-04-17T15:47:12+03:00</lastmod>
 		<priority>0.5</priority>
 		<changefreq>hourly</changefreq>
 	</url>
 	<url>
-		<loc>http://tobiash-studio.dn.ua/contacts.html</loc>
+		<loc>https://tobiash-studio.dn.ua/contacts.html</loc>
 		<lastmod>2019-04-17T15:47:12+03:00</lastmod>
 		<priority>0.5</priority>
 		<changefreq>hourly</changefreq>
+	</url>
+	<url>
+		<loc>https://tobiash-studio.dn.ua/404_not_yet.html</loc>
+		<lastmod>2019-06-08T15:00:00+03:00</lastmod>
+		<priority>0.5</priority>
+		<changefreq>monthly</changefreq>
 	</url>
 </urlset>		     		    			    

@@ -2,19 +2,25 @@ User-agent: *
 Allow: /img
 Allow: /js
 Allow: /styles
+Allow: /video
 Disallow: /cgi-bin
+Disallow: /404.html
 
 User-agent: Yandex
 Allow: /img
 Allow: /js
 Allow: /styles
+Allow: /video
 Disallow: /cgi-bin
+Disallow: /404.html
 
 User-agent: Googlebot
 Allow: /img
 Allow: /js
 Allow: /styles
+Allow: /video
 Disallow: /cgi-bin
+Disallow: /404.html
 
 Host: tobiash-studio.dn.ua
-Sitemap: http://tobiash-studio.dn.ua/sitemap.xml
+Sitemap: https://tobiash-studio.dn.ua/sitemap.xml
