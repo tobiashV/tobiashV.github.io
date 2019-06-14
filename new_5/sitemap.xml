@@ -26,10 +26,5 @@
 		<priority>0.5</priority>
 		<changefreq>hourly</changefreq>
 	</url>
-	<url>
-		<loc>https://tobiash-studio.dn.ua/404_not_yet.html</loc>
-		<lastmod>2019-06-08T15:00:00+03:00</lastmod>
-		<priority>0.5</priority>
-		<changefreq>monthly</changefreq>
-	</url>
+
 </urlset>		     		    			    

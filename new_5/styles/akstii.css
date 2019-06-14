@@ -106,6 +106,13 @@ span {
     transition: all 0.5s;
 
 }
+.akstii-7:hover {
+    flex-basis: 100%;
+    height: auto;
+    background-size: cover;
+    transition: all 0.5s;
+
+}
 
 
 
@@ -159,6 +166,13 @@ span {
     color: white;
     border: 1px solid white;
 }
+.akstii-7 {
+    background: url("../img/gallery/SLM9865-1.jpg")no-repeat center center;
+    background-size: cover;
+    height: 20vh;
+    color: white;
+    border: 1px solid white;
+}
 
 
 
@@ -179,10 +193,10 @@ span {
 
 
 .akstii-3 .bol_3 {display: none}
-.akstii-3:hover .bol_3 {display: block;background-color:rgba(0,0,0,.6);
+.akstii-3:hover .bol_3 {display: block;background-color:rgba(0,0,0,.6); height: 80%;
     padding:5px 5px; text-align: justify}
-.bol_3 {margin-top:20px; font-size: 17px;}
-.bol_3 p {margin-bottom: 10px; text-align: justify}
+.bol_3 { margin-top:20px;font-size: 17px;}
+.bol_3 p { margin-bottom: 10px;text-align: justify}
 
 .akstii-4 .bol_4 {display: none}
 .akstii-4:hover .bol_4 {display: block;background-color:rgba(0,0,0,.6);
@@ -206,6 +220,14 @@ span {
 .akstii-6 img {display: none;}
 .akstii-6:hover img {display: block; max-width: 100%; height: auto;margin: 0 auto }
 
+.akstii-7 .bol_7 {display: none;}
+.akstii-7:hover .bol_7 {display: block; background-color:rgba(0,0,0,.6);
+    padding:5px 5px; text-align: justify; }
+.bol_7 {font-size: 17px;}
+.bol_7 p {text-align: justify;}
+.akstii-7 img {display: none;}
+.akstii-7:hover img {display: block; max-width: 100%; height: auto;margin: 0 auto }
+
 /*.akstii-5_1 {display: flex; flex-direction: row; justify-content: center}*/
 
 @media  (max-width: 980px) {
@@ -222,7 +244,10 @@ span {
         width: 40%;
     }
     .akstii-6:hover img {
-        width: auto;
+        width: 80%;
+    }
+    .akstii-7:hover img {
+        width: 40%;
     }
 }
 
@@ -239,8 +264,8 @@ span {
     .akstii-3 {height: 35vh}
     .akstii-4 {height: 35vh}
     .akstii-5 {height: 35vh}
-    .akstii-5 {height: 35vh}
-
+    .akstii-6 {height: 35vh}
+    .akstii-7 {height: 35vh}
 
 
     .item_aktsii {
@@ -286,6 +311,8 @@ span {
     .akstii-4 {height: 35vh}
     .akstii-5 {height: 35vh}
     .akstii-6 {height: 35vh}
+    .akstii-7 {height: 35vh}
+
 
 
     .item_aktsii {
@@ -303,7 +330,7 @@ span {
         height: 80vh;
     }
     .akstii-3:hover {
-        height: auto;
+        height: 140vh;
     }
     .akstii-4:hover {
         height: auto;
@@ -343,6 +370,9 @@ span {
         height: 25vh
     }
     .akstii-6 {
+        height: 25vh
+    }
+    .akstii-7 {
         height: 25vh
     }
 
@@ -408,23 +438,27 @@ span {
         transition: .2s;
     }
 
-    #gallery a img:nth-child(4n-2) {
-        left: 37.5%;
-    }
+#gallery a img:nth-child(4n-2) {
+    left: 37.5%;
+}
 
-    #gallery a img:nth-child(4n-1) {
-        left: 62.5%;
-    }
+#gallery a img:nth-child(4n-1) {
+    left: 62.5%;
+}
 
-    #gallery a img:nth-child(4n) {
-        left: 87.5%;
-    }
+#gallery a img:nth-child(4n) {
+    left: 87.5%;
+}
 
-    #gallery a img:nth-child(n+5) {
-        top: 55%;
-    }
+#gallery a img:nth-child(n+5) {
+    top: 55%;
+}
 
-    #gallery a img:focus {
+
+
+
+
+#gallery a img:focus {
         position: absolute;
         left: 50%;
         z-index: 1;
@@ -444,7 +478,44 @@ span {
         cursor: zoom-out;
     }
 
+@media  (max-width: 640px)
+{
+#gallery {padding-top: 100%;
+    }
+    #gallery a img{max-width: 45%;
+        }
 
+
+    #gallery a img:nth-child(2n-2) {
+        left: 20%;
+    }
+
+    #gallery a img:nth-child(2n-1) {
+        left: 25%;
+    }
+    #gallery a img:focus:nth-child(2n-1) {
+        left: 50%;
+    }
+
+    #gallery a img:nth-child(2n) {
+        left: 75%;
+    }
+    #gallery a img:focus:nth-child(2n) {
+        left: 50%;
+    }
+    #gallery a img:nth-child(n+3) {
+        top: 53%;
+    }
+
+    #gallery a img:nth-child(n+5) {
+        top: 86%;
+    }
+    #gallery a img:nth-child(n+7) {
+        top: 119%;
+    }
+
+
+}
 
 
 

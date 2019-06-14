@@ -5,6 +5,8 @@ Allow: /styles
 Allow: /video
 Disallow: /cgi-bin
 Disallow: /404.html
+Disallow: /404_not_yet.html
+
 
 User-agent: Yandex
 Allow: /img
@@ -13,6 +15,8 @@ Allow: /styles
 Allow: /video
 Disallow: /cgi-bin
 Disallow: /404.html
+Disallow: /404_not_yet.html
+
 
 User-agent: Googlebot
 Allow: /img
@@ -21,6 +25,8 @@ Allow: /styles
 Allow: /video
 Disallow: /cgi-bin
 Disallow: /404.html
+Disallow: /404_not_yet.html
+
 
 Host: tobiash-studio.dn.ua
 Sitemap: https://tobiash-studio.dn.ua/sitemap.xml
