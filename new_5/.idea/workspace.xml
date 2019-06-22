@@ -103,7 +103,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="4033" />
+          <entry key="css" value="4036" />
           <entry key="htaccess" value="27" />
           <entry key="html" value="12128" />
           <entry key="txt" value="19" />
@@ -112,7 +112,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="4033" />
+          <entry key="CSS" value="4036" />
           <entry key="HTML" value="12128" />
           <entry key="PLAIN_TEXT" value="19" />
           <entry key="XML" value="43" />
@@ -122,9 +122,9 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="JPG" value="18" />
-          <entry key="css" value="59" />
+          <entry key="css" value="60" />
           <entry key="htaccess" value="3" />
-          <entry key="html" value="53" />
+          <entry key="html" value="54" />
           <entry key="jpg" value="207" />
           <entry key="png" value="4" />
           <entry key="txt" value="3" />
@@ -133,8 +133,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="59" />
-          <entry key="HTML" value="53" />
+          <entry key="CSS" value="60" />
+          <entry key="HTML" value="54" />
           <entry key="Image" value="229" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="XML" value="4" />
@@ -178,11 +178,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/styles/akstii.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="450" column="21" lean-forward="true" selection-start-line="362" selection-start-column="2" selection-end-line="458" />
+            <state relative-caret-position="-7751">
+              <caret line="31" lean-forward="true" selection-end-line="31" />
             </state>
           </provider>
         </entry>
@@ -190,17 +190,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles/akstii_2.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="613">
+            <state relative-caret-position="1156">
               <caret line="68" column="20" lean-forward="true" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/styles/akstii_1.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="72" column="23" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -282,7 +273,6 @@
         <option value="$PROJECT_DIR$/usluga_resnitsy.html" />
         <option value="$PROJECT_DIR$/styles/contacts.css" />
         <option value="$PROJECT_DIR$/contacts.html" />
-        <option value="$PROJECT_DIR$/styles/akstii.css" />
         <option value="$PROJECT_DIR$/akstii_2.html" />
         <option value="$PROJECT_DIR$/akstii_1.html" />
         <option value="$PROJECT_DIR$/aktsii.html" />
@@ -290,6 +280,7 @@
         <option value="$PROJECT_DIR$/styles/akstii_3.css" />
         <option value="$PROJECT_DIR$/styles/akstii_2.css" />
         <option value="$PROJECT_DIR$/styles/akstii_1.css" />
+        <option value="$PROJECT_DIR$/styles/akstii.css" />
       </list>
     </option>
   </component>
@@ -299,7 +290,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="7" />
     <option name="y" value="10" />
     <option name="width" value="1378" />
@@ -408,12 +399,12 @@
       <workItem from="1559893661432" duration="65324000" />
       <workItem from="1560493926340" duration="59054000" />
       <workItem from="1561115347142" duration="12290000" />
-      <workItem from="1561145838788" duration="10156000" />
+      <workItem from="1561145838788" duration="11008000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="336547000" />
+    <option name="totallyTimeSpent" value="337399000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -681,6 +672,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/styles/akstii_1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="73" column="9" lean-forward="true" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/styles/akstii_3.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -695,24 +693,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/akstii.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="450" column="21" lean-forward="true" selection-start-line="362" selection-start-column="2" selection-end-line="458" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/styles/akstii_2.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="613">
+        <state relative-caret-position="1156">
           <caret line="68" column="20" lean-forward="true" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/akstii_1.css">
+    <entry file="file://$PROJECT_DIR$/styles/akstii.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="72" column="23" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
+        <state relative-caret-position="-7751">
+          <caret line="31" lean-forward="true" selection-end-line="31" />
         </state>
       </provider>
     </entry>

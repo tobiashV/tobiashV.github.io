@@ -1,34 +1,34 @@
-div.akstii-1:hover, div.akstii-1:active {
-    -webkit-tap-highlight-color: rgba(0,0,0,0);
-    -webkit-user-select: none;
-    -webkit-touch-callout: none
-}
-div.akstii-2:hover, div.akstii-2:active {
-    -webkit-tap-highlight-color: rgba(0,0,0,0);
-    -webkit-user-select: none;
-    -webkit-touch-callout: none
-}
-div.akstii-3:hover, div.akstii-3:active {
-    -webkit-tap-highlight-color: rgba(0,0,0,0);
-    -webkit-user-select: none;
-    -webkit-touch-callout: none
-}
-div.akstii-4:hover, div.akstii-4:active {
-    -webkit-tap-highlight-color: rgba(0,0,0,0);
-    -webkit-user-select: none;
-    -webkit-touch-callout: none
-}
-#gallery a img:focus, #gallery a img:active {
-    -webkit-tap-highlight-color: rgba(0,0,0,0);
-    -webkit-user-select: none;
-    -webkit-touch-callout: none
-}
-#gallery a img:focus ~ div, #gallery a img:focus ~ div:active {
-    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-    -webkit-user-select: none;
-    -webkit-touch-callout: none
+/*div.akstii-1:hover, div.akstii-1:active {*/
+    /*-webkit-tap-highlight-color: rgba(0,0,0,0);*/
+    /*-webkit-user-select: none;*/
+    /*-webkit-touch-callout: none*/
+/*}*/
+/*div.akstii-2:hover, div.akstii-2:active {*/
+    /*-webkit-tap-highlight-color: rgba(0,0,0,0);*/
+    /*-webkit-user-select: none;*/
+    /*-webkit-touch-callout: none*/
+/*}*/
+/*div.akstii-3:hover, div.akstii-3:active {*/
+    /*-webkit-tap-highlight-color: rgba(0,0,0,0);*/
+    /*-webkit-user-select: none;*/
+    /*-webkit-touch-callout: none*/
+/*}*/
+/*div.akstii-4:hover, div.akstii-4:active {*/
+    /*-webkit-tap-highlight-color: rgba(0,0,0,0);*/
+    /*-webkit-user-select: none;*/
+    /*-webkit-touch-callout: none*/
+/*}*/
+/*#gallery a img:focus, #gallery a img:active {*/
+    /*-webkit-tap-highlight-color: rgba(0,0,0,0);*/
+    /*-webkit-user-select: none;*/
+    /*-webkit-touch-callout: none*/
+/*}*/
+/*#gallery a img:focus ~ div, #gallery a img:focus ~ div:active {*/
+    /*-webkit-tap-highlight-color: rgba(0, 0, 0, 0);*/
+    /*-webkit-user-select: none;*/
+    /*-webkit-touch-callout: none*/
 
-}
+/*}*/
 
 
 .slider_aktsii {
