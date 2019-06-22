@@ -21,6 +21,7 @@ span {    font-size: 1.5rem;
 
 
 
+
 .bol_2 {
     background-color:rgba(0,0,0,.4); height: 80%;  }
 
@@ -71,7 +72,7 @@ span {    font-size: 1.5rem;
         }
 
         .akstii_foto img {
-            width: 100%;
+            margin-left: 20%
         }
 
     }

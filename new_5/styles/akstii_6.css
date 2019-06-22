@@ -9,10 +9,10 @@ span {    font-size: 1.5rem;
     text-shadow: 1px 1px black, 1px -1px black, -1px 1px black, -1px -1px black, 3px 3px 6px black;}
 
 
-.akstii-1 {
-    background: url("../img/aktsii/SLM971211-11.jpg") no-repeat center center; opacity: 80%;
+.akstii-6 {
+    background: url("../img/aktsii/SLM619011111-11.jpg")no-repeat center center;
     background-size: cover;
-    height: 100vh;
+    height: auto;
     color: white;
     border: 1px solid white;}
 
@@ -20,20 +20,23 @@ span {    font-size: 1.5rem;
 
 
 
-.bol_1 {
+
+.bol_6 {
     background-color:rgba(0,0,0,.4); height: 80%;  }
 
 
-.bol_1 p {
-    font-size: 30px;
-    padding: 20px 10px 10px 10px
+.bol_6 p {
+    font-size: 27px;
+
+    padding: 10px 10px 10px 10px
 }
 
 
-.bol_1 img {width: 35%;
+.bol_6 img {width: 45%;
     padding: 10px 10px 10px 10px;
     float: right;
-    border-radius: 20px 20px 20px 20px;}
+    border-radius: 20px 20px 20px 20px;
+}
 
 
 
@@ -50,32 +53,32 @@ span {    font-size: 1.5rem;
 
 
 @media  (max-width: 780px) {
-    .bol_1 img {
-        width: 45%;
+    .bol_6 img {
+        width: 85%;
     }
 
-    .bol_1 p {
-        font-size: 25px
+    .bol_6 p {
+        font-size: 20px
     }
 
-    .bol_1 {
+    .bol_6 {
         font-size: 20px;
     }
 
     @media (max-width: 640px) {
-        .bol_1 img {
+        .bol_6 img {
             float: none;
         }
 
-        .akstii_foto img {
-            margin-left: 25%
+        .bol_6_img {
+            margin-left: 10%
         }
 
     }
 
     @media (max-width: 480px) {
-        .bol_1 p {
-            font-size: 20px
+        .bol_6 p {
+            font-size: 17px
         }
     }
 }

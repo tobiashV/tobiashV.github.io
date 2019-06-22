@@ -9,29 +9,29 @@ span {    font-size: 1.5rem;
     text-shadow: 1px 1px black, 1px -1px black, -1px 1px black, -1px -1px black, 3px 3px 6px black;}
 
 
-.akstii-3 {
-    background: url("../img/aktsii/SLM619011111-11.jpg")no-repeat center center;
+.akstii-4 {
+    background: url("../img/aktsii/Hair-dressing.jpg")no-repeat center center;
     background-size: cover;
     height: auto;
     color: white;
     border: 1px solid white;}
 
-.akstii-3 p {text-align: center}
 
 
 
 
-.bol_3 {
+
+.bol_4 {
     background-color:rgba(0,0,0,.4);   }
 
 
-.bol_3 p {
+.bol_4 p {
     font-size: 27px;
     padding: 10px 10px 10px 10px
 }
 
 
-.bol_3 img {width: 49%;
+.bol_4 img {width: 49%;
         border-radius: 20px 20px 20px 20px ;border: 1px solid white; margin-top: 5px}
 
 .bar_foto {width: 90%; height: auto; margin: 0 auto}
@@ -68,12 +68,12 @@ span {    font-size: 1.5rem;
 /*}*/
 
     @media (max-width: 640px) {
-        .bol_3 img {
+        .bol_4 img {
             width: 100%;
 
         }
 
-        .akstii-3 {
+        .akstii-4 {
 
             height: auto;
         }
