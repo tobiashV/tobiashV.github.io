@@ -1,3 +1,12 @@
+body {
+
+
+
+    background-image: url(../img/header/bg-light-4862.png);
+
+    background-repeat: repeat;
+
+}
 .blok_parimaher {height: 100%; width: 90%; margin: 0 auto; background-image:url("../img/header/fonlogo.JPG");
     border-radius: 20px 20px 20px 20px; margin-top: 10px; box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 5px 5px rgba(0,0,0,0.22); padding: 10PX 10PX}
 

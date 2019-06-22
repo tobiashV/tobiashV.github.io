@@ -3,6 +3,7 @@
     margin: 0 auto;
     height: 500px;
     border: 1px solid pink;
+
 }
 h1 {
     font-size: 25px;
@@ -23,3 +24,9 @@ h1 {
     #map {height: 300px}
     script {zoom: 11.50}
 }
+
+
+.atrium img{width: 65%; margin: 0 auto;
+
+    }
+.atrium {text-align: center; margin-top: 10px}
