@@ -27,7 +27,7 @@ span {    font-size: 1.5rem;
 
 .bol_7 p {
     font-size: 27px;
-
+text-align: center;
     padding: 10px 10px 10px 10px
 }
 
@@ -69,9 +69,11 @@ span {    font-size: 1.5rem;
         .bol_7 img {
             float: none;
         }
+        .bol_7 img {
+            width: 65%;}
 
         .akstii_foto {
-            margin-left: 30%
+            margin-left: 25%
         }
 
     }

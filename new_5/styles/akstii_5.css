@@ -68,10 +68,13 @@ span {    font-size: 1.5rem;
     @media (max-width: 640px) {
         .bol_5 img {
             float: none;
+            width: 70%;
         }
 
+
+
         .bol_5_img {
-            margin-left: 25%
+            margin-left: 20%
         }
 
     }
