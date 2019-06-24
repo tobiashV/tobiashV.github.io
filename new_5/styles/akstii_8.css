@@ -1,0 +1,87 @@
+
+.slider_aktsii {
+    margin-top: 2px;
+    transition: all 0.5s;}
+.slider a{text-decoration: none;
+    color: white;    }
+span p {padding: 5px 10px}
+span {    font-size: 1.5rem;
+    text-shadow: 1px 1px black, 1px -1px black, -1px 1px black, -1px -1px black, 3px 3px 6px black;}
+
+
+.akstii-8 {
+    background: url("../img/aktsii/SLM619011111-11.jpg")no-repeat center center;
+    background-size: cover;
+    height: 130vh;
+    color: white;
+    border: 1px solid white;}
+
+
+
+
+
+
+.bol_8 {
+    background-color:rgba(0,0,0,.4); height: 80%;  }
+
+
+.bol_8 p {
+    font-size: 22px;
+    padding: 10px 10px 10px 10px
+}
+
+
+.bol_8 img {width: 35%;
+    padding: 10px 10px 10px 10px;
+    float: right;
+    border-radius: 20px 20px 20px 20px;
+}
+
+
+
+
+.data {font-size: 12px; padding: 5px 10px;
+}
+
+
+
+/*@media  (max-width: 980px) {*/
+    /*.bol_1 img {width: 45%;*/
+/*}*/
+
+
+
+@media  (max-width: 780px) {
+    .bol_8 img {
+        width: 55%;
+    }
+
+    .bol_8 p {
+        font-size: 17px
+    }
+
+    .bol_8 {
+        font-size: 27px;
+    }
+
+    @media (max-width: 640px) {
+        .bol_8 img {
+            float: none;
+        }
+        .bol_8 img {
+            width: 65%;}
+
+        .akstii_foto {
+            margin-left: 25%
+        }
+        .akstii-8 {height: 180vh}
+
+    }
+
+    @media (max-width: 480px) {
+        .bol_8 p {
+            font-size: 17px
+        }
+
+    }
+}
