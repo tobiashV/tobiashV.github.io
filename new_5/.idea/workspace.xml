@@ -103,7 +103,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="4694" />
+          <entry key="css" value="4698" />
           <entry key="htaccess" value="27" />
           <entry key="html" value="13318" />
           <entry key="txt" value="19" />
@@ -112,7 +112,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="4694" />
+          <entry key="CSS" value="4698" />
           <entry key="HTML" value="13318" />
           <entry key="PLAIN_TEXT" value="19" />
           <entry key="XML" value="43" />
@@ -145,10 +145,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
+            <state relative-caret-position="1038">
               <caret line="194" column="59" selection-start-line="194" selection-start-column="59" selection-end-line="194" selection-end-column="59" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -184,11 +184,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/styles/uslugi.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3594">
-              <caret line="315" selection-start-line="315" selection-end-line="315" />
+            <state relative-caret-position="296">
+              <caret line="244" lean-forward="true" selection-start-line="244" selection-end-line="244" />
             </state>
           </provider>
         </entry>
@@ -347,10 +347,10 @@
         <option value="$PROJECT_DIR$/akstii_1.html" />
         <option value="$PROJECT_DIR$/styles/akstii_1.css" />
         <option value="$PROJECT_DIR$/akstii_8.html" />
-        <option value="$PROJECT_DIR$/styles/uslugi.css" />
         <option value="$PROJECT_DIR$/contacts.html" />
         <option value="$PROJECT_DIR$/styles/price.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/styles/uslugi.css" />
       </list>
     </option>
   </component>
@@ -456,12 +456,12 @@
       <workItem from="1559893661432" duration="65324000" />
       <workItem from="1560493926340" duration="59054000" />
       <workItem from="1561115347142" duration="12290000" />
-      <workItem from="1561145838788" duration="40959000" />
+      <workItem from="1561145838788" duration="41808000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="367350000" />
+    <option name="totallyTimeSpent" value="368199000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -828,16 +828,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/uslugi.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3594">
-          <caret line="315" selection-start-line="315" selection-end-line="315" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
+        <state relative-caret-position="1038">
           <caret line="194" column="59" selection-start-line="194" selection-start-column="59" selection-end-line="194" selection-end-column="59" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -869,6 +862,13 @@
             <element signature="n#style#0;n#video#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
             <marker date="1561486293641" expanded="true" signature="5458:5483" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/uslugi.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="244" lean-forward="true" selection-start-line="244" selection-end-line="244" />
         </state>
       </provider>
     </entry>
