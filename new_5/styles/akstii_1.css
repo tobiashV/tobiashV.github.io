@@ -12,7 +12,7 @@ span {    font-size: 1.5rem;
 .akstii-1 {
     background: url("../img/aktsii/SLM971211-11.jpg") no-repeat center center; opacity: 80%;
     background-size: cover;
-    height: 100vh;
+    height: auto;
     color: white;
     border: 1px solid white;}
 
@@ -32,7 +32,8 @@ span {    font-size: 1.5rem;
 
 .bol_1 img {width: 35%;
     padding: 10px 10px 10px 10px;
-    float: right;
+    display: block;
+    margin: 0 auto;
     border-radius: 20px 20px 20px 20px;}
 
 
@@ -51,7 +52,7 @@ span {    font-size: 1.5rem;
 
 @media  (max-width: 780px) {
     .bol_1 img {
-        width: 45%;
+        width: 55%;
     }
 
     .bol_1 p {
@@ -68,8 +69,8 @@ span {    font-size: 1.5rem;
         }
 
         .akstii_foto img {
-            margin-left: 25%
-        }
+        display: block;
+            margin: 0 auto;}
 
     }
 

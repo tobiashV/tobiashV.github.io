@@ -73,7 +73,8 @@ span {    font-size: 1.5rem;
         }
 
         .akstii_foto img {
-            margin-left: 10%
+        display: block;
+            margin: 0 auto;}
         }
 
     }
@@ -83,4 +84,3 @@ span {    font-size: 1.5rem;
             font-size: 17px
         }
     }
-}

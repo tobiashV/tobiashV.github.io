@@ -75,9 +75,9 @@ span {    font-size: 1.5rem;
             width: 45%;
         }
 
-        .akstii_foto {
-            margin-left: 25%
-        }
+        .akstii_foto img {display: block;
+            margin: 0 auto;}
+
 
         @media (max-width: 480px) {
             .bol_8 p {

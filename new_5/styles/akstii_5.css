@@ -73,8 +73,9 @@ span {    font-size: 1.5rem;
 
 
 
-        .bol_5_img {
-            margin-left: 20%
+        .bol_5 img {
+       display: block;
+            margin: 0 auto;}
         }
 
     }
@@ -84,4 +85,4 @@ span {    font-size: 1.5rem;
             font-size: 17px
         }
     }
-}
+
