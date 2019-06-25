@@ -91,7 +91,12 @@ span {    font-size: 1.5rem;
     color: white;
     border: 1px solid white;}
 
-
+.akstii-8 {
+    background: url("../img/aktsii/SLM619011111-11.jpg")no-repeat center center;
+    background-size: cover;
+    height: 20vh;
+    color: white;
+    border: 1px solid white;}
 
 
 .akstii-1 .bol_1 {display: none; }
@@ -176,7 +181,15 @@ span {    font-size: 1.5rem;
 .akstii-7 p {text-align: center; }
 
 
-
+.akstii-8 .bol_8 {display: none;}
+/*.akstii-7:hover .bol_7 {display: block; background-color:rgba(0,0,0,.6);*/
+/*padding:5px 5px; text-align: justify; }*/
+.bol_8 {font-size: 17px;}
+.bol_8 p {text-align: justify;}
+.akstii-8 img {display: none;}
+.akstii-8:hover img {display: block; max-width: 100%; height: auto;margin: 0 auto }
+.akstii-8 p:hover { color: hotpink; transition: 1s}
+.akstii-8 p {text-align: center; }
 
 /*.akstii-1:hover {*/
     /*flex-basis: 100%;*/
@@ -294,6 +307,8 @@ span {    font-size: 1.5rem;
         height: 30vh}
     .akstii-7 {
         height: 30vh}
+    .akstii-8 {
+        height: 30vh}
 
     .item_aktsii {
         width: 100%;}
@@ -345,6 +360,9 @@ span {    font-size: 1.5rem;
     }
 
     .akstii-7 {
+        height: 30vh
+    }
+    .akstii-8 {
         height: 30vh
     }
 
