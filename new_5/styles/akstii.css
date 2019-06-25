@@ -259,13 +259,14 @@ span {    font-size: 1.5rem;
     .slider_aktsii {
         flex-flow: column;}
 
-    /*.akstii-1 {height: 20vh}*/
-    /*.akstii-2 {height: 35vh}*/
-    /*.akstii-3 {height: 35vh}*/
-    /*.akstii-4 {height: 35vh}*/
-    /*.akstii-5 {height: 35vh}*/
-    /*.akstii-6 {height: 35vh}*/
-    /*.akstii-7 {height: 35vh}*/
+    .akstii-1 {height: 30vh}
+    .akstii-2 {height: 30vh}
+    .akstii-3 {height: 30vh}
+    .akstii-4 {height: 30vh}
+    .akstii-5 {height: 30vh}
+    .akstii-6 {height: 30vh}
+    .akstii-7 {height: 30vh}
+    .akstii-8 {height: 30vh}
 
 
     .item_aktsii {
