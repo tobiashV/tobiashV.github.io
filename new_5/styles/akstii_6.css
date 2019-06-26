@@ -33,9 +33,10 @@ span {    font-size: 1.5rem;
 }
 
 
-.bol_6 img {width: 45%;
+.bol_6 img {width: 55%;
     padding: 10px 10px 10px 10px;
-    float: right;
+    display: block;
+    margin: 0 auto;
     border-radius: 20px 20px 20px 20px;
 }
 
@@ -72,7 +73,8 @@ span {    font-size: 1.5rem;
         }
 
         .bol_6_img {
-            margin-left: 10%
+            display: block;
+            margin: 0 auto;
         }
 
     }

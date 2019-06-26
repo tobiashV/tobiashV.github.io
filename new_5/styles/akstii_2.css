@@ -33,9 +33,10 @@ span {    font-size: 1.5rem;
 }
 
 
-.bol_2 img {width: 35%;
+.bol_2 img {width: 55%;
     padding: 10px 10px 10px 10px;
-    float: right;
+    display: block;
+    margin: 0 auto;
     border-radius: 20px 20px 20px 20px;
 }
 
