@@ -193,8 +193,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/styles/akstii.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="218" column="3" selection-start-line="218" selection-start-column="3" selection-end-line="218" selection-end-column="3" />
+            <state relative-caret-position="170">
+              <caret line="247" lean-forward="true" selection-start-line="247" selection-end-line="247" />
             </state>
           </provider>
         </entry>
@@ -402,12 +402,12 @@
       <workItem from="1559893661432" duration="65324000" />
       <workItem from="1560493926340" duration="59054000" />
       <workItem from="1561115347142" duration="12290000" />
-      <workItem from="1561145838788" duration="58511000" />
+      <workItem from="1561145838788" duration="58757000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="384902000" />
+    <option name="totallyTimeSpent" value="385148000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -809,8 +809,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/akstii.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="218" column="3" selection-start-line="218" selection-start-column="3" selection-end-line="218" selection-end-column="3" />
+        <state relative-caret-position="170">
+          <caret line="247" lean-forward="true" selection-start-line="247" selection-end-line="247" />
         </state>
       </provider>
     </entry>

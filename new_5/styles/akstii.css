@@ -44,7 +44,7 @@ span {    font-size: 1.5rem;
 .akstii-1 {
     background: url("../img/aktsii/SLM971211-11.jpg") no-repeat center center;
     background-size: cover;
-    height: 20vh;
+    height: auto;
     color: white;
     border: 1px solid white;
 }
@@ -52,49 +52,49 @@ span {    font-size: 1.5rem;
 .akstii-2 {
     background: url("../img/aktsii/prazdnik-novyi-god.jpg")no-repeat center center;
     background-size: cover;
-    height: 20vh;
+    height: auto;
     color: white;
     border: 1px solid white;}
 
 .akstii-3 {
     background: url("../img/aktsii/SLM619011111-11.jpg")no-repeat center center;
     background-size: cover;
-    height: 20vh;
+    height: auto;
     color: white;
     border: 1px solid white;}
 
 .akstii-4 {
     background: url("../img/aktsii/Hair-dressing.jpg")no-repeat center center;
     background-size: cover;
-    height: 20vh;
+    height: auto;
     color: white;
     border: 1px solid white;}
 
 .akstii-5 {
     background: url("../img/aktsii/permanentnyj-makiyazh-brovej-1.jpg")no-repeat center center;
     background-size: cover;
-    height: 20vh;
+    height: auto;
     color: white;
     border: 1px solid white;}
 
 .akstii-6 {
     background: url("../img/aktsii/SLM619011111-11.jpg")no-repeat center center;
     background-size: cover;
-    height: 20vh;
+    height: auto;
     color: white;
     border: 1px solid white;}
 
 .akstii-7 {
     background: url("../img/aktsii/podarki/SLM9865-1-1.jpg")no-repeat center center;
     background-size: cover;
-    height: 20vh;
+    height: auto;
     color: white;
     border: 1px solid white;}
 
 .akstii-8 {
     background: url("../img/aktsii/SLM619011111-11.jpg")no-repeat center center;
     background-size: cover;
-    height: 20vh;
+    height: auto;
     color: white;
     border: 1px solid white;}
 
@@ -203,21 +203,21 @@ span {    font-size: 1.5rem;
 
 
 
-@media  (max-width: 768px) {
-    .slider_aktsii {
-        flex-flow: column;}
+/*@media  (max-width: 768px) {*/
+    /*.slider_aktsii {*/
+        /*flex-flow: column;}*/
 
-    .akstii-1 {height: 30vh}
-    .akstii-2 {height: 30vh}
-    .akstii-3 {height: 30vh}
-    .akstii-4 {height: 30vh}
-    .akstii-5 {height: 30vh}
-    .akstii-6 {height: 30vh}
-    .akstii-7 {height: 30vh}
-    .akstii-8 {height: 30vh}
+    /*.akstii-1 {height: 30vh}*/
+    /*.akstii-2 {height: 30vh}*/
+    /*.akstii-3 {height: 30vh}*/
+    /*.akstii-4 {height: 30vh}*/
+    /*.akstii-5 {height: 30vh}*/
+    /*.akstii-6 {height: 30vh}*/
+    /*.akstii-7 {height: 30vh}*/
+    /*.akstii-8 {height: 30vh}*/
 
-   
-}
+   /**/
+/*}*/
 
 
 /*@media  (max-width: 640px) {*/
@@ -248,42 +248,42 @@ span {    font-size: 1.5rem;
 
 
 
-@media  (max-width: 640px) {
+/*@media  (max-width: 640px) {*/
 
 
 
-    .akstii-1 {
-        height: 25vh
-    }
+    /*.akstii-1 {*/
+        /*height: 25vh*/
+    /*}*/
 
-    .akstii-2 {
-        height: 25vh
-    }
+    /*.akstii-2 {*/
+        /*height: 25vh*/
+    /*}*/
 
-    .akstii-3 {
-        height: 25vh
-    }
+    /*.akstii-3 {*/
+        /*height: 25vh*/
+    /*}*/
 
-    .akstii-4 {
-        height: 25vh
-    }
+    /*.akstii-4 {*/
+        /*height: 25vh*/
+    /*}*/
 
-    .akstii-5 {
-        height: 25vh
-    }
+    /*.akstii-5 {*/
+        /*height: 25vh*/
+    /*}*/
 
-    .akstii-6 {
-        height: 25vh
-    }
+    /*.akstii-6 {*/
+        /*height: 25vh*/
+    /*}*/
 
-    .akstii-7 {
-        height: 25vh
-    }
+    /*.akstii-7 {*/
+        /*height: 25vh*/
+    /*}*/
 
-    .akstii-8 {
-        height: 25vh
-    }
-}
+    /*.akstii-8 {*/
+        /*height: 25vh*/
+    /*}*/
+/*}*/
 
 
 
