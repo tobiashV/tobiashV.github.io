@@ -103,7 +103,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="5228" />
+          <entry key="css" value="5260" />
           <entry key="htaccess" value="27" />
           <entry key="html" value="14608" />
           <entry key="txt" value="19" />
@@ -112,7 +112,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="5228" />
+          <entry key="CSS" value="5260" />
           <entry key="HTML" value="14608" />
           <entry key="PLAIN_TEXT" value="19" />
           <entry key="XML" value="43" />
@@ -125,7 +125,7 @@
           <entry key="css" value="113" />
           <entry key="htaccess" value="3" />
           <entry key="html" value="136" />
-          <entry key="jpg" value="244" />
+          <entry key="jpg" value="245" />
           <entry key="png" value="5" />
           <entry key="txt" value="3" />
           <entry key="xml" value="4" />
@@ -135,7 +135,7 @@
         <counts>
           <entry key="CSS" value="113" />
           <entry key="HTML" value="136" />
-          <entry key="Image" value="267" />
+          <entry key="Image" value="268" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="XML" value="4" />
           <entry key="htaccess" value="3" />
@@ -193,8 +193,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/styles/uslugi.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="76" column="28" lean-forward="true" selection-start-line="76" selection-start-column="28" selection-end-line="76" selection-end-column="28" />
+            <state relative-caret-position="357">
+              <caret line="93" selection-start-line="93" selection-end-line="93" />
             </state>
           </provider>
         </entry>
@@ -307,7 +307,8 @@
             <path>
               <item name="new_5" type="b2602c69:ProjectViewProjectNode" />
               <item name="new_5" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="uslugi" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -376,19 +377,19 @@
       <workItem from="1559893661432" duration="65324000" />
       <workItem from="1560493926340" duration="59054000" />
       <workItem from="1561115347142" duration="12290000" />
-      <workItem from="1561145838788" duration="61296000" />
+      <workItem from="1561145838788" duration="62238000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="387687000" />
+    <option name="totallyTimeSpent" value="388629000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.15885022" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.15885022" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
@@ -502,9 +503,6 @@
           <caret line="42" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/uslugi/IMG-35f0.jpg">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/IMG-d9e9bfe982a02d63615f602f7c25e261-V-1.jpg">
       <provider selected="true" editor-type-id="images" />
@@ -781,10 +779,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/uslugi/IMG-35f0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/styles/uslugi.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="76" column="28" lean-forward="true" selection-start-line="76" selection-start-column="28" selection-end-line="76" selection-end-column="28" />
+        <state relative-caret-position="357">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
         </state>
       </provider>
     </entry>
