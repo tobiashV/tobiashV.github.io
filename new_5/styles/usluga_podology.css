@@ -7,13 +7,13 @@
 
 
 .foto_podology_1 img {
-    width: 35%; float: right;
-    padding-left: 10px;
+    width: 35%; float: left;
+    padding-right: 10px;
     border-radius: 20px 20px 20px 20px;}
 
 .foto_podology_2 img {
-    width: 35%; float: left;
-    padding-right: 10px;
+    width: 35%; float: right;
+    padding-left: 10px;
     border-radius: 20px 20px 20px 20px;}
 
 @media screen and (max-width: 760px) {
