@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!-- Файл sitemap.xml создан 17.04.2019 15:47,
+	всего найдено 4. страниц-->
+	<url>
+		<loc>https://tobiash-studio.dn.ua/</loc>
+		<lastmod>2019-04-17T15:47:12+03:00</lastmod>
+		<priority>1</priority>
+		<changefreq>always</changefreq>
+	</url>
+	<url>
+		<loc>https://tobiash-studio.dn.ua/price.html</loc>
+		<lastmod>2019-04-17T15:47:12+03:00</lastmod>
+		<priority>0.5</priority>
+		<changefreq>hourly</changefreq>
+	</url>
+	<url>
+		<loc>https://tobiash-studio.dn.ua/aktsii.html</loc>
+		<lastmod>2019-04-17T15:47:12+03:00</lastmod>
+		<priority>0.5</priority>
+		<changefreq>hourly</changefreq>
+	</url>
+
+	<url>
+		<loc>https://tobiash-studio.dn.ua/contacts.html</loc>
+		<lastmod>2019-04-17T15:47:12+03:00</lastmod>
+		<priority>0.5</priority>
+		<changefreq>hourly</changefreq>
+	</url>
+
+</urlset>		     		    			    
