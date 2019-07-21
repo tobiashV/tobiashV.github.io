@@ -9,8 +9,8 @@ span {    font-size: 1.5rem;
     text-shadow: 1px 1px black, 1px -1px black, -1px 1px black, -1px -1px black, 3px 3px 6px black;}
 
 
-.akstii-5 {
-    background: url("../img/aktsii/permanentnyj-makiyazh-brovej-1.jpg")no-repeat center center;
+.akstii-9 {
+    background: url("../img/aktsii/ischemparikmahera/SLM79098711.jpg")no-repeat center center;
     background-size: cover;
     height: auto;
     color: white;
@@ -21,23 +21,25 @@ span {    font-size: 1.5rem;
 
 
 
-.bol_5 {
+.bol_9 {
     background-color:rgba(0,0,0,.4); height: 80%;  }
 
 
-.bol_5 p {
-    font-size: 20px;
-
-    padding: 10px 10px 10px 10px
+.bol_9 p {
+    font-size: 24px;
+    padding: 10px 10px 10px 10px;
+    text-align: left;
 }
 
 
-.bol_5 img {width: 30%;
+.bol_9 img {width: 35%;
     padding: 10px 10px 10px 10px;
-    float: right;
+
     border-radius: 20px 20px 20px 20px;
 }
 
+.akstii_foto img {display: block;
+    margin: 0 auto;}
 
 
 
@@ -53,36 +55,40 @@ span {    font-size: 1.5rem;
 
 
 @media  (max-width: 780px) {
-    .bol_5 img {
-        width: 55%;
+    .bol_9 img {
+        width: 45%;
     }
 
-    .bol_5 p {
-        font-size: 20px
+    .bol_9 p {
+        font-size: 17px
     }
 
-    .bol_5 {
-        font-size: 20px;
+    .bol_9 {
+        font-size: 27px;
     }
+}
+
 
     @media (max-width: 640px) {
-        .bol_5 img {
+        .bol_9 img {
             float: none;
-            width: 70%;
         }
 
+        .bol_9 img {
+            width: 45%;
+        }
 
-
-        .bol_5 img {
-       display: block;
+        .akstii_foto img {display: block;
             margin: 0 auto;}
+
+
+        @media (max-width: 480px) {
+            .bol_9 p {
+                font-size: 17px
+            }
+            .bol_9 img {
+                width: 55%;
+            }
+
         }
-
     }
-
-    @media (max-width: 480px) {
-        .bol_5 p {
-            font-size: 17px
-        }
-    }
-
