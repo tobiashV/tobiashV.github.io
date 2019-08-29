@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www.tobiash-studio.dn.ua$ [NC]
+RewriteRule ^(.*)$ https://tobiash-studio.dn.ua/$1 [R=301,L]
+
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.html\ HTTP/
+RewriteRule ^index\.html$ https://tobiash-studio.dn.ua/ [R=301,L]
+
+ErrorDocument 404 /404.html

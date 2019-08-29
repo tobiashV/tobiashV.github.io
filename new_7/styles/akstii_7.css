@@ -1,0 +1,86 @@
+
+.slider_aktsii {
+    margin-top: 2px;
+    transition: all 0.5s;}
+.slider a{text-decoration: none;
+    color: white;    }
+span p {padding: 5px 10px}
+
+
+
+.akstii-7 {
+    /*background: url("../img/aktsii/podarki/SLM9865-1-1.jpg")no-repeat center center;*/
+    background-size: cover;
+    height: auto;
+    color: white;
+    font-size: 1.5rem;
+    text-shadow: 1px 1px black, 1px -1px black, -1px 1px black, -1px -1px black, 3px 3px 6px black;
+    }
+
+
+
+
+
+
+.bol_7 {
+    background-color:rgba(0,0,0,.4); height: 80%;  }
+
+
+.bol_7 p {
+    font-size: 27px;
+text-align: center;
+    padding: 10px 10px 10px 10px
+}
+
+
+.bol_7 img {width: 35%;
+    padding: 10px 10px 10px 10px;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.akstii_foto img {display: block;
+    margin: 0 auto;}
+
+
+.data {font-size: 12px; padding: 5px 10px;
+}
+
+
+
+/*@media  (max-width: 980px) {*/
+    /*.bol_1 img {width: 45%;*/
+/*}*/
+
+
+
+@media  (max-width: 780px) {
+    .bol_7 img {
+        width: 55%;
+    }
+
+    .bol_7 p {
+        font-size: 20px
+    }
+
+    .bol_7 {
+        font-size: 20px;
+    }
+
+    @media (max-width: 640px) {
+        .bol_7 img {
+            float: none;
+        }
+        .bol_7 img {
+            width: 65%;}
+
+        .akstii_foto img {display: block;
+            margin: 0 auto;}
+
+    }
+
+    @media (max-width: 480px) {
+        .bol_7 p {
+            font-size: 17px
+        }
+    }
+}
